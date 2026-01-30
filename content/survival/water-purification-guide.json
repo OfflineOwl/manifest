@@ -1,0 +1,38 @@
+{
+  "id": "water-purification-guide",
+  "version": "1.0.0",
+  "title": "Complete Water Purification Guide",
+  "description": "Comprehensive guide covering all methods of water purification in emergency situations. Includes boiling, chemical treatment, solar disinfection (SODIS), filtration methods, and more. Essential knowledge for any survival situation.",
+  "shortDescription": "Learn all water purification methods for emergencies",
+  "type": "document",
+  "category": "survival",
+  "tags": ["water", "purification", "survival", "emergency", "filtration", "boiling"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/survival/water-purification-guide.pdf",
+    "mirror": "https://archive.org/download/water-purification-guide/water-purification-guide.pdf",
+    "size": 2500000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456"
+    },
+    "format": "pdf"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/water-purification-guide.jpg",
+  "license": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "Survival Knowledge Foundation",
+  "source": "https://example.org/water-guide",
+  "language": "en",
+  "pages": 45,
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "contentDate": "2024-06-15",
+  "verified": true,
+  "featured": true,
+  "priority": 95,
+  "requires": [],
+  "metadata": {
+    "readingLevel": "intermediate",
+    "printFriendly": true
+  }
+}

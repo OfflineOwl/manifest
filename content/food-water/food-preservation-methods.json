@@ -1,0 +1,32 @@
+{
+  "id": "food-preservation-methods",
+  "version": "1.0.0",
+  "title": "Food Preservation Methods",
+  "description": "Complete guide to preserving food without modern refrigeration. Covers canning, smoking, drying, salting, fermentation, root cellars, and more. Essential for long-term food security.",
+  "shortDescription": "Preserve food without electricity",
+  "type": "document",
+  "category": "food-water",
+  "tags": ["food", "preservation", "canning", "smoking", "drying", "fermentation"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/food-water/food-preservation-methods.pdf",
+    "size": 8500000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "e5f6789012345678901234567890abcdef1234567890abcdef1234567abcd"
+    },
+    "format": "pdf"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/food-preservation.jpg",
+  "license": "public-domain",
+  "author": "USDA Extension Service",
+  "source": "https://www.usda.gov",
+  "language": "en",
+  "pages": 156,
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "contentDate": "2023-01-01",
+  "verified": true,
+  "featured": true,
+  "priority": 88,
+  "requires": []
+}

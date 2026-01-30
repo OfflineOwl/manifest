@@ -1,0 +1,19 @@
+{
+  "id": "offlineowl-official",
+  "name": "OfflineOwl Official Registry",
+  "description": "The official curated registry of survival, preparedness, and offline content maintained by the OfflineOwl team.",
+  "version": "1.0.0",
+  "type": "official",
+  "homepage": "https://offlineowl.app",
+  "repository": "https://github.com/offlineowl/registry",
+  "maintainers": [
+    {
+      "name": "OfflineOwl Team",
+      "email": "registry@offlineowl.app",
+      "url": "https://offlineowl.app"
+    }
+  ],
+  "icon": "https://offlineowl.app/icon.png",
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "offline-games-collection",
+  "version": "1.0.0",
+  "title": "Offline Games Collection",
+  "description": "Collection of offline games, puzzles, and activities that work without internet. Includes card games, board game rules, word games, logic puzzles, and interactive entertainment. Perfect for passing time during emergencies or off-grid living.",
+  "shortDescription": "Games and puzzles for offline entertainment",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["games", "puzzles", "entertainment", "offline", "family"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/entertainment/offline-games-collection.zip",
+    "size": 25000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "89012345678901234567890abcdef1234567890abcdef1234567abcdef01"
+    },
+    "format": "zip"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/games-collection.jpg",
+  "license": "mit",
+  "author": "OfflineOwl Community",
+  "language": "en",
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40,
+  "requires": [],
+  "metadata": {
+    "gameCount": 25,
+    "ageRange": "all-ages"
+  }
+}

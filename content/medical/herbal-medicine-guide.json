@@ -1,0 +1,30 @@
+{
+  "id": "herbal-medicine-guide",
+  "version": "1.0.0",
+  "title": "Herbal Medicine & Natural Remedies",
+  "description": "Comprehensive guide to medicinal plants and natural remedies. Covers plant identification, preparation methods, dosages, and safety considerations. Includes both common and wilderness-found medicinal herbs.",
+  "shortDescription": "Natural remedies and medicinal plant guide",
+  "type": "document",
+  "category": "medical",
+  "tags": ["herbal", "medicine", "plants", "natural", "remedies", "foraging"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/medical/herbal-medicine-guide.epub",
+    "size": 15000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "d4e5f6789012345678901234567890abcdef1234567890abcdef1234567abc"
+    },
+    "format": "epub"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/herbal-medicine.jpg",
+  "license": "cc-by-sa",
+  "author": "Traditional Medicine Archive",
+  "language": "en",
+  "pages": 280,
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 75,
+  "requires": []
+}
