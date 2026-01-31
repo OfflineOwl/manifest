@@ -1,0 +1,30 @@
+{
+  "id": "k0n7",
+  "version": "1.0.0",
+  "title": "Defensive Driving",
+  "description": "Comprehensive guide covering defensive driving. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Defensive Driving - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "driving",
+    "defensive",
+    "evacuation",
+    "safety"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/defensive-driving-k0n7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

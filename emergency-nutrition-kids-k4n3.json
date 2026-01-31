@@ -1,0 +1,30 @@
+{
+  "id": "k4n3",
+  "version": "1.0.0",
+  "title": "Emergency Nutrition Kids",
+  "description": "Comprehensive guide covering emergency nutrition kids. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Emergency Nutrition Kids - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "nutrition",
+    "children",
+    "food",
+    "emergency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/emergency-nutrition-kids-k4n3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

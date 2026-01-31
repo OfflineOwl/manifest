@@ -1,0 +1,30 @@
+{
+  "id": "x2a9",
+  "version": "1.0.0",
+  "title": "Sealing Room",
+  "description": "Comprehensive guide covering sealing room. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Sealing Room - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "sealing",
+    "shelter",
+    "cbr",
+    "protection"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/sealing-room-x2a9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

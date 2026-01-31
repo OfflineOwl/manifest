@@ -1,0 +1,30 @@
+{
+  "id": "g9j6",
+  "version": "1.0.0",
+  "title": "Food Safety No Fridge",
+  "description": "Quick reference guide for food safety no fridge. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Food Safety No Fridge - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "food-safety",
+    "refrigeration",
+    "storage",
+    "spoilage"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/food-safety-no-fridge-g9j6",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

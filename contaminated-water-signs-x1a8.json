@@ -1,0 +1,30 @@
+{
+  "id": "x1a8",
+  "version": "1.0.0",
+  "title": "Contaminated Water Signs",
+  "description": "Comprehensive guide covering contaminated water signs. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Contaminated Water Signs - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "water",
+    "contamination",
+    "safety",
+    "signs"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/contaminated-water-signs-x1a8",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

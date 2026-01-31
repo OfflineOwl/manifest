@@ -1,0 +1,30 @@
+{
+  "id": "m9p7",
+  "version": "1.0.0",
+  "title": "CPR Rescue Breathing",
+  "description": "Comprehensive guide covering cpr rescue breathing. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "CPR Rescue Breathing - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "cpr",
+    "rescue",
+    "breathing",
+    "emergency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/cpr-rescue-breathing-m9p7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "i5u0",
+  "version": "1.0.0",
+  "title": "Risk Assessment Region",
+  "description": "Interactive web-based guide for risk assessment region with visual elements and user interaction.",
+  "shortDescription": "Risk Assessment Region - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "risk",
+    "assessment",
+    "planning",
+    "regional"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/risk-assessment-region-i5u0",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

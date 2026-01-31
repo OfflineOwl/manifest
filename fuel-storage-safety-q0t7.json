@@ -1,0 +1,30 @@
+{
+  "id": "q0t7",
+  "version": "1.0.0",
+  "title": "Fuel Storage Safety",
+  "description": "Quick reference guide for fuel storage safety. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Fuel Storage Safety - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "fuel",
+    "storage",
+    "safety",
+    "emergency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/fuel-storage-safety-q0t7",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

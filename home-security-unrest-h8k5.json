@@ -1,0 +1,30 @@
+{
+  "id": "h8k5",
+  "version": "1.0.0",
+  "title": "Home Security Unrest",
+  "description": "Comprehensive guide covering home security unrest. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Home Security Unrest - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "security",
+    "unrest",
+    "home",
+    "protection"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/home-security-unrest-h8k5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

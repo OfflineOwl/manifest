@@ -1,0 +1,30 @@
+{
+  "id": "k2m8",
+  "version": "1.0.0",
+  "title": "Basic First Aid",
+  "description": "Comprehensive guide covering basic first aid. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Basic First Aid - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "first-aid",
+    "medical",
+    "emergency",
+    "treatment"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/basic-first-aid-k2m8",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

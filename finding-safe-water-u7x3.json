@@ -1,0 +1,30 @@
+{
+  "id": "u7x3",
+  "version": "1.0.0",
+  "title": "Finding Safe Water",
+  "description": "Comprehensive guide covering finding safe water. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Finding Safe Water - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "water",
+    "sources",
+    "finding",
+    "emergency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/finding-safe-water-u7x3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5m9q",
+  "version": "1.0.0",
+  "title": "Emergency Shelter Building",
+  "description": "Learn to build emergency shelters using natural materials and minimal tools. Covers debris huts, lean-tos, snow shelters, tarp configurations, and improvised structures. Includes site selection and insulation techniques.",
+  "shortDescription": "Build shelters from natural materials",
+  "type": "document",
+  "category": "shelter",
+  "tags": ["shelter", "survival", "building", "camping", "emergency", "bushcraft"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/shelter/emergency-shelter-building.pdf",
+    "size": 5200000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "f6789012345678901234567890abcdef1234567890abcdef1234567abcde"
+    },
+    "format": "pdf"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/shelter-building.jpg",
+  "license": "cc-by",
+  "author": "Wilderness Survival School",
+  "language": "en",
+  "pages": 72,
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 85,
+  "requires": []
+}

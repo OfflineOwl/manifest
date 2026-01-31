@@ -1,0 +1,30 @@
+{
+  "id": "h1t4",
+  "version": "1.0.0",
+  "title": "Situational Awareness",
+  "description": "Quick reference guide for situational awareness. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Situational Awareness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "awareness",
+    "safety",
+    "observation",
+    "preparedness"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/situational-awareness-h1t4",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

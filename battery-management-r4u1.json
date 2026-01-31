@@ -1,0 +1,30 @@
+{
+  "id": "r4u1",
+  "version": "1.0.0",
+  "title": "Battery Management",
+  "description": "Comprehensive guide covering battery management. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Battery Management - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "battery",
+    "power",
+    "management",
+    "electronics"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/battery-management-r4u1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

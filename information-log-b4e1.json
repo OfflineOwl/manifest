@@ -1,0 +1,30 @@
+{
+  "id": "b4e1",
+  "version": "1.0.0",
+  "title": "Information Log",
+  "description": "Quick reference guide for information log. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Information Log - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "log",
+    "documentation",
+    "information",
+    "records"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/information-log-b4e1",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

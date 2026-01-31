@@ -1,0 +1,30 @@
+{
+  "id": "n6q3",
+  "version": "1.0.0",
+  "title": "Household Skills",
+  "description": "Comprehensive guide covering household skills. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Household Skills - Emergency preparedness guide",
+  "type": "guide",
+  "category": "reference",
+  "tags": [
+    "skills",
+    "household",
+    "repair",
+    "diy"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/household-skills-n6q3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "u4x1",
+  "version": "1.0.0",
+  "title": "Long Term Recovery",
+  "description": "Comprehensive guide covering long term recovery. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Long Term Recovery - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "recovery",
+    "long-term",
+    "rebuilding",
+    "planning"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/long-term-recovery-u4x1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

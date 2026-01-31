@@ -1,0 +1,30 @@
+{
+  "id": "z5c3",
+  "version": "1.0.0",
+  "title": "Message Relay Phones",
+  "description": "Comprehensive guide covering message relay phones. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Message Relay Phones - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "message",
+    "relay",
+    "phone",
+    "communication"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/message-relay-phones-z5c3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

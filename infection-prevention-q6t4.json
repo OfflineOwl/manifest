@@ -1,0 +1,30 @@
+{
+  "id": "q6t4",
+  "version": "1.0.0",
+  "title": "Infection Prevention",
+  "description": "Comprehensive guide covering infection prevention. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Infection Prevention - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "infection",
+    "prevention",
+    "hygiene",
+    "health"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/infection-prevention-q6t4",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "s6v3",
+  "version": "1.0.0",
+  "title": "Community Mutual Aid",
+  "description": "Quick reference guide for community mutual aid. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Community Mutual Aid - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "community",
+    "mutual-aid",
+    "neighbors",
+    "cooperation"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/community-mutual-aid-s6v3",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

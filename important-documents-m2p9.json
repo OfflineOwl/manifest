@@ -1,0 +1,30 @@
+{
+  "id": "m2p9",
+  "version": "1.0.0",
+  "title": "Important Documents",
+  "description": "Comprehensive guide covering important documents. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Important Documents - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "documents",
+    "records",
+    "identification",
+    "insurance"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/important-documents-m2p9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,35 @@
+{
+  "id": "trgv",
+  "version": "1.0.0",
+  "title": "Wikipedia Offline - Essential Articles",
+  "description": "Curated collection of essential Wikipedia articles covering survival, science, medicine, history, and practical skills. Compressed and optimized for offline viewing. Includes over 50,000 articles selected for their relevance to preparedness.",
+  "shortDescription": "Essential Wikipedia articles for offline access",
+  "type": "archive",
+  "category": "reference",
+  "tags": ["wikipedia", "encyclopedia", "reference", "knowledge", "offline"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/reference/offline-wikipedia-essential.zim",
+    "size": 8500000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "789012345678901234567890abcdef1234567890abcdef1234567abcdef0"
+    },
+    "format": "zim"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/wikipedia-offline.jpg",
+  "license": "cc-by-sa",
+  "author": "Wikimedia Foundation",
+  "source": "https://wikipedia.org",
+  "language": "en",
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "contentDate": "2025-12-01",
+  "verified": true,
+  "featured": true,
+  "priority": 80,
+  "requires": [],
+  "metadata": {
+    "articleCount": 50000,
+    "requiresReader": "kiwix"
+  }
+}

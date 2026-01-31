@@ -1,0 +1,30 @@
+{
+  "id": "b7m2",
+  "version": "1.0.0",
+  "title": "72 Hour Survival Checklist",
+  "description": "Comprehensive guide covering 72 hour survival checklist. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "72 Hour Survival Checklist - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "supplies",
+    "checklist",
+    "emergency",
+    "preparedness"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/72-hour-survival-checklist-b7m2",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

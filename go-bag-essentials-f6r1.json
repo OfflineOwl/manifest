@@ -1,0 +1,30 @@
+{
+  "id": "f6r1",
+  "version": "1.0.0",
+  "title": "Go Bag Essentials",
+  "description": "Comprehensive guide covering go bag essentials. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Go Bag Essentials - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "supplies",
+    "go-bag",
+    "emergency",
+    "kit"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/go-bag-essentials-f6r1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "e2q7",
+  "version": "1.0.0",
+  "title": "Evacuation Routes Rally Points",
+  "description": "Comprehensive guide covering evacuation routes rally points. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Evacuation Routes Rally Points - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "evacuation",
+    "routes",
+    "meeting-points",
+    "planning"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/evacuation-routes-rally-points-e2q7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

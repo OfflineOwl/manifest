@@ -1,0 +1,30 @@
+{
+  "id": "a9d1",
+  "version": "1.0.0",
+  "title": "Hygiene Limited Water",
+  "description": "Comprehensive guide covering hygiene limited water. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Hygiene Limited Water - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "hygiene",
+    "water-conservation",
+    "sanitation",
+    "health"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/hygiene-limited-water-a9d1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

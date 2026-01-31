@@ -1,0 +1,30 @@
+{
+  "id": "o0r7",
+  "version": "1.0.0",
+  "title": "Family Roles",
+  "description": "Quick reference guide for family roles. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Family Roles - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "roles",
+    "family",
+    "responsibilities",
+    "planning"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/family-roles-o0r7",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

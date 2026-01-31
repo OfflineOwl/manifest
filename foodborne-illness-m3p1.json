@@ -1,0 +1,30 @@
+{
+  "id": "m3p1",
+  "version": "1.0.0",
+  "title": "Foodborne Illness",
+  "description": "Quick reference guide for foodborne illness. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Foodborne Illness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "foodborne",
+    "illness",
+    "safety",
+    "prevention"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/foodborne-illness-m3p1",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

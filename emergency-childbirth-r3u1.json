@@ -1,0 +1,30 @@
+{
+  "id": "r3u1",
+  "version": "1.0.0",
+  "title": "Emergency Childbirth",
+  "description": "Quick reference guide for emergency childbirth. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Emergency Childbirth - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "childbirth",
+    "emergency",
+    "birth",
+    "medical"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/emergency-childbirth-r3u1",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

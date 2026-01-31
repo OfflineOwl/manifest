@@ -1,0 +1,31 @@
+{
+  "id": "je8k",
+  "version": "1.0.0",
+  "title": "Ham Radio for Emergency Communication",
+  "description": "Introduction to amateur (ham) radio for emergency communication. Covers basic radio theory, equipment selection, licensing requirements, emergency frequencies, and communication protocols. Essential for maintaining contact when infrastructure fails.",
+  "shortDescription": "Emergency radio communication basics",
+  "type": "document",
+  "category": "communication",
+  "tags": ["radio", "ham", "communication", "emergency", "amateur-radio"],
+  "download": {
+    "url": "https://cdn.offlineowl.app/content/communication/ham-radio-basics.pdf",
+    "size": 12000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "6789012345678901234567890abcdef1234567890abcdef1234567abcdef"
+    },
+    "format": "pdf"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/ham-radio.jpg",
+  "license": "cc-by-nc-sa",
+  "author": "Amateur Radio Emergency Service",
+  "source": "https://www.arrl.org",
+  "language": "en",
+  "pages": 95,
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-30T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 70,
+  "requires": []
+}

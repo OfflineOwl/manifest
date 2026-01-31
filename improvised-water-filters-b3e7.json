@@ -1,0 +1,30 @@
+{
+  "id": "b3e7",
+  "version": "1.0.0",
+  "title": "Improvised Water Filters",
+  "description": "Interactive web-based guide for improvised water filters with visual elements and user interaction.",
+  "shortDescription": "Improvised Water Filters - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "water",
+    "filters",
+    "diy",
+    "purification"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/improvised-water-filters-b3e7",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

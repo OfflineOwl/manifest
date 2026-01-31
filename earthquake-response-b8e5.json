@@ -1,0 +1,30 @@
+{
+  "id": "b8e5",
+  "version": "1.0.0",
+  "title": "Earthquake Response",
+  "description": "Comprehensive guide covering earthquake response. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Earthquake Response - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "earthquake",
+    "disaster",
+    "response",
+    "safety"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/earthquake-response-b8e5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

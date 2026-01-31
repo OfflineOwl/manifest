@@ -1,0 +1,30 @@
+{
+  "id": "l5n3",
+  "version": "1.0.0",
+  "title": "Bleeding Control Tourniquet",
+  "description": "Comprehensive guide covering bleeding control tourniquet. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Bleeding Control Tourniquet - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "bleeding",
+    "tourniquet",
+    "trauma",
+    "first-aid"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/bleeding-control-tourniquet-l5n3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "o2r9",
+  "version": "1.0.0",
+  "title": "Emergency Heating",
+  "description": "Comprehensive guide covering emergency heating. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Emergency Heating - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "heating",
+    "warmth",
+    "emergency",
+    "shelter"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/emergency-heating-o2r9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

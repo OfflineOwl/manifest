@@ -1,0 +1,30 @@
+{
+  "id": "t0w7",
+  "version": "1.0.0",
+  "title": "Legal Insurance",
+  "description": "Comprehensive guide covering legal insurance. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Legal Insurance - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "legal",
+    "insurance",
+    "claims",
+    "documentation"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/legal-insurance-t0w7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

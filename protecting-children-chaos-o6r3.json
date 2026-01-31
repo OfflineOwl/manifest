@@ -1,0 +1,30 @@
+{
+  "id": "o6r3",
+  "version": "1.0.0",
+  "title": "Protecting Children Chaos",
+  "description": "Comprehensive guide covering protecting children chaos. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Protecting Children Chaos - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "children",
+    "protection",
+    "safety",
+    "family"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/protecting-children-chaos-o6r3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

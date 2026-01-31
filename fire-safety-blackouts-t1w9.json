@@ -1,0 +1,30 @@
+{
+  "id": "t1w9",
+  "version": "1.0.0",
+  "title": "Fire Safety Blackouts",
+  "description": "Comprehensive guide covering fire safety blackouts. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Fire Safety Blackouts - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "fire",
+    "safety",
+    "blackout",
+    "prevention"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/fire-safety-blackouts-t1w9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

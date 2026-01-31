@@ -1,0 +1,30 @@
+{
+  "id": "f5i2",
+  "version": "1.0.0",
+  "title": "Cooking Without Power",
+  "description": "Comprehensive guide covering cooking without power. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Cooking Without Power - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "cooking",
+    "power-outage",
+    "food",
+    "preparation"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/cooking-without-power-f5i2",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

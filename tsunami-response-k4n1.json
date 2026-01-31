@@ -1,0 +1,30 @@
+{
+  "id": "k4n1",
+  "version": "1.0.0",
+  "title": "Tsunami Response",
+  "description": "Comprehensive guide covering tsunami response. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Tsunami Response - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "tsunami",
+    "wave",
+    "coastal",
+    "evacuation"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/tsunami-response-k4n1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

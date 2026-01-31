@@ -1,0 +1,30 @@
+{
+  "id": "e1h7",
+  "version": "1.0.0",
+  "title": "No Cook Meal Planning",
+  "description": "Comprehensive guide covering no cook meal planning. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "No Cook Meal Planning - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "food",
+    "no-cook",
+    "meals",
+    "emergency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/no-cook-meal-planning-e1h7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

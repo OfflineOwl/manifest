@@ -1,0 +1,39 @@
+{
+  "id": "wkdx",
+  "version": "1.0.0",
+  "title": "Complete Water Purification Guide",
+  "description": "Comprehensive guide covering all methods of water purification in emergency situations. Includes boiling, chemical treatment, solar disinfection (SODIS), filtration methods, DIY filters, and distillation. Essential knowledge for any survival situation.",
+  "shortDescription": "Learn all water purification methods for emergencies",
+  "type": "guide",
+  "category": "survival",
+  "tags": ["water", "purification", "survival", "emergency", "filtration", "boiling", "sodis", "distillation"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "water-purification-wkdx"
+  },
+  "thumbnail": "https://cdn.offlineowl.app/thumbnails/water-purification-guide.jpg",
+  "license": "cc-by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "author": "OfflineOwl",
+  "language": "en",
+  "createdAt": "2026-01-30T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 95,
+  "requires": [],
+  "metadata": {
+    "readingLevel": "beginner-to-intermediate",
+    "printFriendly": true,
+    "estimatedReadTime": "15 minutes",
+    "sections": [
+      "Understanding Contamination",
+      "Boiling",
+      "Chemical Treatment",
+      "UV Purification",
+      "Filtration",
+      "Distillation",
+      "Choosing the Right Method"
+    ]
+  }
+}

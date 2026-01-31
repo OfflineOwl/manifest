@@ -1,0 +1,30 @@
+{
+  "id": "i6l5",
+  "version": "1.0.0",
+  "title": "Sprouting Fast Foods",
+  "description": "Comprehensive guide covering sprouting fast foods. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Sprouting Fast Foods - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "sprouting",
+    "nutrition",
+    "food",
+    "growing"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/sprouting-fast-foods-i6l5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

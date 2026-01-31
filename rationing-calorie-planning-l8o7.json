@@ -1,0 +1,30 @@
+{
+  "id": "l8o7",
+  "version": "1.0.0",
+  "title": "Rationing Calorie Planning",
+  "description": "Interactive web-based guide for rationing calorie planning with visual elements and user interaction.",
+  "shortDescription": "Rationing Calorie Planning - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "rationing",
+    "calories",
+    "nutrition",
+    "planning"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/rationing-calorie-planning-l8o7",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "a0d7",
+  "version": "1.0.0",
+  "title": "Signal Flags Whistles",
+  "description": "Quick reference guide for signal flags whistles. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Signal Flags Whistles - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "signals",
+    "flags",
+    "whistles",
+    "communication"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/signal-flags-whistles-a0d7",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

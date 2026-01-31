@@ -1,0 +1,30 @@
+{
+  "id": "y1b9",
+  "version": "1.0.0",
+  "title": "Radio Emergency Updates",
+  "description": "Comprehensive guide covering radio emergency updates. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Radio Emergency Updates - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "radio",
+    "emergency",
+    "information",
+    "broadcast"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/radio-emergency-updates-y1b9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

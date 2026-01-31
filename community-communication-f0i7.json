@@ -1,0 +1,30 @@
+{
+  "id": "f0i7",
+  "version": "1.0.0",
+  "title": "Community Communication",
+  "description": "Comprehensive guide covering community communication. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Community Communication - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "community",
+    "communication",
+    "neighbors",
+    "network"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/community-communication-f0i7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

@@ -1,0 +1,30 @@
+{
+  "id": "g8s5",
+  "version": "1.0.0",
+  "title": "Home Hardening Basics",
+  "description": "Comprehensive guide covering home hardening basics. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Home Hardening Basics - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "home",
+    "security",
+    "hardening",
+    "protection"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/home-hardening-basics-g8s5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

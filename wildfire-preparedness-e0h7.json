@@ -1,0 +1,30 @@
+{
+  "id": "e0h7",
+  "version": "1.0.0",
+  "title": "Wildfire Preparedness",
+  "description": "Comprehensive guide covering wildfire preparedness. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Wildfire Preparedness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "wildfire",
+    "fire",
+    "evacuation",
+    "preparedness"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/wildfire-preparedness-e0h7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

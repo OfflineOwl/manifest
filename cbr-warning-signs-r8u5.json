@@ -1,0 +1,30 @@
+{
+  "id": "r8u5",
+  "version": "1.0.0",
+  "title": "CBR Warning Signs",
+  "description": "Comprehensive guide covering cbr warning signs. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "CBR Warning Signs - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "cbr",
+    "chemical",
+    "biological",
+    "radiological"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/cbr-warning-signs-r8u5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

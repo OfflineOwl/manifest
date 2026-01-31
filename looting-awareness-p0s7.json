@@ -1,0 +1,30 @@
+{
+  "id": "p0s7",
+  "version": "1.0.0",
+  "title": "Looting Awareness",
+  "description": "Comprehensive guide covering looting awareness. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Looting Awareness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "looting",
+    "security",
+    "prevention",
+    "property"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/looting-awareness-p0s7",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

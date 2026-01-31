@@ -1,0 +1,30 @@
+{
+  "id": "n8f2",
+  "version": "1.0.0",
+  "title": "Nuclear Fallout Protection",
+  "description": "Interactive guide with visual aids and step-by-step components for nuclear fallout protection.",
+  "shortDescription": "Nuclear Fallout Protection - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "nuclear",
+    "fallout",
+    "radiation",
+    "shelter"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/nuclear-fallout-protection-n8f2",
+    "ref": "main",
+    "entryPoint": "index.mdx",
+    "format": "mdx"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

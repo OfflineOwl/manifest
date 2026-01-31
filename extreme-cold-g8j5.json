@@ -1,0 +1,30 @@
+{
+  "id": "g8j5",
+  "version": "1.0.0",
+  "title": "Extreme Cold",
+  "description": "Quick reference guide for extreme cold. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Extreme Cold - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "cold",
+    "hypothermia",
+    "winter",
+    "survival"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/extreme-cold-g8j5",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

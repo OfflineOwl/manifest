@@ -1,0 +1,30 @@
+{
+  "id": "l8o5",
+  "version": "1.0.0",
+  "title": "Emergency Cash Barter",
+  "description": "Comprehensive guide covering emergency cash barter. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Emergency Cash Barter - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "cash",
+    "barter",
+    "money",
+    "trade"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/emergency-cash-barter-l8o5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

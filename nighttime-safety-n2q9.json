@@ -1,0 +1,30 @@
+{
+  "id": "n2q9",
+  "version": "1.0.0",
+  "title": "Nighttime Safety",
+  "description": "Quick reference guide for nighttime safety. Plain text format for maximum compatibility and offline printing.",
+  "shortDescription": "Nighttime Safety - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "night",
+    "safety",
+    "darkness",
+    "security"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/nighttime-safety-n2q9",
+    "ref": "main",
+    "entryPoint": "index.txt",
+    "format": "txt"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

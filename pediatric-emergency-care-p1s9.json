@@ -1,0 +1,30 @@
+{
+  "id": "p1s9",
+  "version": "1.0.0",
+  "title": "Pediatric Emergency Care",
+  "description": "Comprehensive guide covering pediatric emergency care. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Pediatric Emergency Care - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "pediatric",
+    "children",
+    "emergency",
+    "medical"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/pediatric-emergency-care-p1s9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

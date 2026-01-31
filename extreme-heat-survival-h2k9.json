@@ -1,0 +1,30 @@
+{
+  "id": "h2k9",
+  "version": "1.0.0",
+  "title": "Extreme Heat Survival",
+  "description": "Comprehensive guide covering extreme heat survival. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Extreme Heat Survival - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "heat",
+    "hyperthermia",
+    "summer",
+    "survival"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/extreme-heat-survival-h2k9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

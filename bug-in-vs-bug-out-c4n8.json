@@ -1,0 +1,30 @@
+{
+  "id": "c4n8",
+  "version": "1.0.0",
+  "title": "Bug In vs Bug Out",
+  "description": "Interactive web-based guide for bug in vs bug out with visual elements and user interaction.",
+  "shortDescription": "Bug In vs Bug Out - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "evacuation",
+    "shelter",
+    "decision",
+    "planning"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/bug-in-vs-bug-out-c4n8",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

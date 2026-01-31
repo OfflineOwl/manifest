@@ -1,0 +1,30 @@
+{
+  "id": "c8f5",
+  "version": "1.0.0",
+  "title": "Verifying Information",
+  "description": "Comprehensive guide covering verifying information. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Verifying Information - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "verification",
+    "misinformation",
+    "news",
+    "accuracy"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/verifying-information-c8f5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

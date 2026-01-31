@@ -1,0 +1,30 @@
+{
+  "id": "s7v5",
+  "version": "1.0.0",
+  "title": "Mental Health Crisis",
+  "description": "Comprehensive guide covering mental health crisis. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Mental Health Crisis - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "mental-health",
+    "crisis",
+    "psychological",
+    "support"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/mental-health-crisis-s7v5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

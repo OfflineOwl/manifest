@@ -1,0 +1,30 @@
+{
+  "id": "w8z5",
+  "version": "1.0.0",
+  "title": "Quarantine Isolation",
+  "description": "Comprehensive guide covering quarantine isolation. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Quarantine Isolation - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "quarantine",
+    "isolation",
+    "disease",
+    "containment"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/quarantine-isolation-w8z5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

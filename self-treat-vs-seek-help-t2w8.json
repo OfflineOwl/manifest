@@ -1,0 +1,30 @@
+{
+  "id": "t2w8",
+  "version": "1.0.0",
+  "title": "Self Treat vs Seek Help",
+  "description": "Comprehensive guide covering self treat vs seek help. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Self Treat vs Seek Help - Emergency preparedness guide",
+  "type": "guide",
+  "category": "medical",
+  "tags": [
+    "triage",
+    "self-treatment",
+    "medical",
+    "decision"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/self-treat-vs-seek-help-t2w8",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

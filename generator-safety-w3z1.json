@@ -1,0 +1,30 @@
+{
+  "id": "w3z1",
+  "version": "1.0.0",
+  "title": "Generator Safety",
+  "description": "Comprehensive guide covering generator safety. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Generator Safety - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "generator",
+    "safety",
+    "power",
+    "electrical"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/generator-safety-w3z1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

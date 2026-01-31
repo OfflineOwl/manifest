@@ -1,0 +1,30 @@
+{
+  "id": "i2l9",
+  "version": "1.0.0",
+  "title": "Personal Safety Deescalation",
+  "description": "Comprehensive guide covering personal safety deescalation. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Personal Safety Deescalation - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "safety",
+    "de-escalation",
+    "conflict",
+    "personal"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/personal-safety-deescalation-i2l9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

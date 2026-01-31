@@ -1,0 +1,30 @@
+{
+  "id": "e6h3",
+  "version": "1.0.0",
+  "title": "Offline Maps Nav",
+  "description": "Comprehensive guide covering offline maps nav. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Offline Maps Nav - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "maps",
+    "navigation",
+    "offline",
+    "gps"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/offline-maps-nav-e6h3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

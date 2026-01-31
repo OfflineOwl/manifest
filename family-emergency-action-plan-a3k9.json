@@ -1,0 +1,30 @@
+{
+  "id": "a3k9",
+  "version": "1.0.0",
+  "title": "Family Emergency Action Plan",
+  "description": "Comprehensive guide covering family emergency action plan. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Family Emergency Action Plan - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "family",
+    "planning",
+    "emergency",
+    "communication"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/family-emergency-action-plan-a3k9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}
