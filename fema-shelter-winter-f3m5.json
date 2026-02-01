@@ -1,0 +1,42 @@
+{
+  "id": "f3m5",
+  "version": "1.0.0",
+  "title": "FEMA Winter Storm Shelter-in-Place Guide",
+  "description": "Official FEMA guidance for sheltering during winter storms. Key guidance: stay inside, limit outdoor time, avoid carbon monoxide poisoning by using generators only outdoors at least 20 feet from the house. Covers protecting pipes, staying warm, and emergency heating safety.",
+  "shortDescription": "FEMA winter storm shelter-in-place guidance",
+  "type": "document",
+  "category": "shelter",
+  "categories": ["shelter", "survival"],
+  "tags": [
+    "fema",
+    "winter",
+    "storm",
+    "shelter",
+    "shelter-in-place",
+    "cold-weather",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-winterstorm.pdf",
+    "size": 800000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/national-preparedness/plan/evacuation-shelter-in-place",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 70,
+  "metadata": {
+    "publisher": "FEMA",
+    "printRecommended": true
+  }
+}

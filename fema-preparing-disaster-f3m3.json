@@ -1,0 +1,41 @@
+{
+  "id": "f3m3",
+  "version": "1.0.0",
+  "title": "FEMA Preparing for Disaster",
+  "description": "Official FEMA guide outlining the four essential steps to emergency preparedness: Get informed about community hazards and warning systems, make a family emergency plan including communication strategies and meeting locations, assemble an emergency supply kit, and maintain your plan and kit over time.",
+  "shortDescription": "FEMA's four steps to emergency preparedness",
+  "type": "document",
+  "category": "survival",
+  "categories": ["survival", "reference"],
+  "tags": [
+    "fema",
+    "preparedness",
+    "emergency-plan",
+    "family-plan",
+    "disaster-kit",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/pdf/library/pfd.pdf",
+    "size": 1500000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/individuals-communities",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 80,
+  "metadata": {
+    "publisher": "FEMA",
+    "printRecommended": true
+  }
+}

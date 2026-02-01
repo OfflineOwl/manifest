@@ -1,0 +1,42 @@
+{
+  "id": "f3m6",
+  "version": "1.0.0",
+  "title": "FEMA Chemical Hazard Shelter-in-Place Guide",
+  "description": "Official FEMA guidance for sheltering during chemical hazard events. Instructions: go inside quickly, seal doors and windows with duct tape and plastic, turn off HVAC systems, avoid tap water until cleared. Also includes active shooter guidance following Run-Hide-Fight protocol.",
+  "shortDescription": "FEMA chemical hazard and active threat shelter guidance",
+  "type": "document",
+  "category": "shelter",
+  "categories": ["shelter", "survival"],
+  "tags": [
+    "fema",
+    "chemical",
+    "hazmat",
+    "shelter",
+    "shelter-in-place",
+    "active-shooter",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance.pdf",
+    "size": 1000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/national-preparedness/plan/evacuation-shelter-in-place",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 75,
+  "metadata": {
+    "publisher": "FEMA",
+    "printRecommended": true
+  }
+}

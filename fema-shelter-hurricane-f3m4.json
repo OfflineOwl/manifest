@@ -1,0 +1,41 @@
+{
+  "id": "f3m4",
+  "version": "1.0.0",
+  "title": "FEMA Hurricane Shelter-in-Place Guide",
+  "description": "Official FEMA guidance for sheltering in place during hurricanes. Covers when you cannot evacuate: evacuate mobile homes to shelters, use highest building level for flood/storm surge danger, and interior windowless rooms on lowest level for high wind protection. Includes guidance for different building types.",
+  "shortDescription": "FEMA hurricane shelter-in-place guidance",
+  "type": "document",
+  "category": "shelter",
+  "categories": ["shelter", "survival"],
+  "tags": [
+    "fema",
+    "hurricane",
+    "shelter",
+    "shelter-in-place",
+    "storm",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/sites/default/files/documents/fema_shelter-in-place_guidance-hurricane.pdf",
+    "size": 800000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/national-preparedness/plan/evacuation-shelter-in-place",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 70,
+  "metadata": {
+    "publisher": "FEMA",
+    "printRecommended": true
+  }
+}

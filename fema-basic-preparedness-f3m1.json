@@ -1,0 +1,45 @@
+{
+  "id": "f3m1",
+  "version": "1.0.0",
+  "title": "FEMA Basic Preparedness Guide",
+  "description": "Official FEMA guide covering fundamental emergency preparedness. Includes hazard identification, emergency planning checklists, disaster supply kit assembly, shelter guidance, and water/food management during emergencies. Part of FEMA's 'Are You Ready?' series.",
+  "shortDescription": "Official FEMA emergency preparedness fundamentals",
+  "type": "document",
+  "category": "survival",
+  "categories": ["survival", "reference"],
+  "tags": [
+    "fema",
+    "preparedness",
+    "emergency-plan",
+    "disaster-kit",
+    "evacuation",
+    "shelter",
+    "water-storage",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/pdf/areyouready/basic_preparedness.pdf",
+    "size": 2500000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/individuals-communities/are-you-ready",
+  "language": "en",
+  "pages": 46,
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 90,
+  "metadata": {
+    "publisher": "FEMA",
+    "series": "Are You Ready?",
+    "printRecommended": true
+  }
+}

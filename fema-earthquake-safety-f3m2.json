@@ -1,0 +1,42 @@
+{
+  "id": "f3m2",
+  "version": "1.0.0",
+  "title": "FEMA Earthquake Safety Checklist",
+  "description": "Official FEMA earthquake preparedness checklist (B-526). Covers specific preparation strategies for earthquake hazards, emergency kit recommendations for home, work, and car. Emphasizes being self-sufficient for 72 hours to two weeks after a major earthquake.",
+  "shortDescription": "Official FEMA earthquake preparedness checklist",
+  "type": "document",
+  "category": "survival",
+  "categories": ["survival", "reference"],
+  "tags": [
+    "fema",
+    "earthquake",
+    "checklist",
+    "preparedness",
+    "safety",
+    "government",
+    "official"
+  ],
+  "download": {
+    "url": "https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf",
+    "size": 500000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-fema-document"
+    },
+    "format": "pdf"
+  },
+  "license": "public-domain",
+  "author": "Federal Emergency Management Agency (FEMA)",
+  "source": "https://www.fema.gov/emergency-managers/risk-management/earthquake",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 75,
+  "metadata": {
+    "publisher": "FEMA",
+    "documentNumber": "B-526",
+    "printRecommended": true
+  }
+}

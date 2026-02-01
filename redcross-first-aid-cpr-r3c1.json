@@ -1,0 +1,44 @@
+{
+  "id": "r3c1",
+  "version": "1.0.0",
+  "title": "Red Cross Comprehensive First Aid & CPR Guide",
+  "description": "Comprehensive guide from the Canadian Red Cross covering emergency response, CPR, choking response, circulation emergencies, wound care, burns, fractures, and environmental emergencies. Essential reference for medical emergencies when professional help isn't available.",
+  "shortDescription": "Complete Red Cross first aid and CPR reference guide",
+  "type": "document",
+  "category": "medical",
+  "categories": ["medical", "reference"],
+  "tags": [
+    "red-cross",
+    "first-aid",
+    "cpr",
+    "medical",
+    "emergency",
+    "choking",
+    "wounds",
+    "burns"
+  ],
+  "download": {
+    "url": "https://cdn.redcross.ca/prodmedia/crc/azure/documents/first-aid-program-2025/comprehensive_guide_fa_cpr_en.pdf",
+    "size": 5000000,
+    "checksum": {
+      "algorithm": "sha256",
+      "value": "external-redcross-document"
+    },
+    "format": "pdf"
+  },
+  "license": "custom",
+  "licenseUrl": "https://www.redcross.ca/terms-and-conditions",
+  "author": "Canadian Red Cross",
+  "source": "https://www.redcross.ca/training-and-certification/first-aid-tips-and-resources",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 95,
+  "metadata": {
+    "publisher": "Canadian Red Cross",
+    "year": "2025",
+    "printRecommended": true
+  }
+}
