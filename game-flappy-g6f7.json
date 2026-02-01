@@ -1,0 +1,25 @@
+{
+  "id": "g6f7",
+  "version": "1.0.0",
+  "title": "Flappy Owl",
+  "description": "Guide the owl through pipe obstacles by tapping to fly. Simple controls but challenging gameplay. How far can you go? Features high score tracking.",
+  "shortDescription": "Tap to fly through obstacles",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "arcade", "action", "endless", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-flappy-g6f7",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

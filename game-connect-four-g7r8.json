@@ -1,0 +1,25 @@
+{
+  "id": "g7r8",
+  "version": "1.0.0",
+  "title": "Connect Four",
+  "description": "Drop colored discs to connect four in a row! Play against AI or another player. Strategic thinking required to block opponents and set up wins.",
+  "shortDescription": "Four-in-a-row strategy game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "strategy", "classic", "multiplayer", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-connect-four-g7r8",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

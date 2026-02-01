@@ -1,0 +1,25 @@
+{
+  "id": "g8s9",
+  "version": "1.0.0",
+  "title": "Reaction Test",
+  "description": "Test your reflexes! Wait for green then click as fast as possible. Track your reaction time in milliseconds. How fast are your reflexes?",
+  "shortDescription": "Test your reaction time",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "reflex", "speed", "test", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-reaction-test-g8s9",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

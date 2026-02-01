@@ -1,0 +1,25 @@
+{
+  "id": "g8i9",
+  "version": "1.0.0",
+  "title": "Minesweeper",
+  "description": "Classic logic puzzle game. Reveal tiles without hitting mines, using numbers as clues. Features three difficulty levels and flag mode for mobile.",
+  "shortDescription": "Classic mine-finding logic puzzle",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "logic", "classic", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-minesweeper-g8i9",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

@@ -1,0 +1,25 @@
+{
+  "id": "g0u1",
+  "version": "1.0.0",
+  "title": "Maze Runner",
+  "description": "Navigate through randomly generated mazes to reach the exit! Use arrow keys, swipe, or touch controls. Three difficulty levels with varying maze sizes.",
+  "shortDescription": "Navigate randomly generated mazes",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "maze", "puzzle", "navigation", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-maze-runner-g0u1",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

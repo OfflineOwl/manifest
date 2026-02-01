@@ -1,0 +1,25 @@
+{
+  "id": "g3c4",
+  "version": "1.0.0",
+  "title": "2048",
+  "description": "Slide numbered tiles to combine them and reach 2048! Swipe or use arrow keys to move tiles. Addictive number puzzle that tests strategic thinking.",
+  "shortDescription": "Slide and merge number puzzle",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "numbers", "strategy", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-2048-g3c4",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 35
+}

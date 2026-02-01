@@ -1,0 +1,32 @@
+{
+  "id": "g8k2",
+  "version": "1.0.0",
+  "title": "Memory Match - Survival Edition",
+  "description": "Test your memory with this card-matching game featuring survival supplies. Match pairs of emergency items like water, first aid kits, flashlights, and more. Features multiple difficulty levels and tracks your best scores offline.",
+  "shortDescription": "Memory matching game with survival-themed cards",
+  "type": "game",
+  "category": "entertainment",
+  "tags": [
+    "game",
+    "memory",
+    "puzzle",
+    "offline",
+    "entertainment",
+    "brain-training"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-memory-match-g8k2",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 30
+}

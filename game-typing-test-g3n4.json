@@ -1,0 +1,25 @@
+{
+  "id": "g3n4",
+  "version": "1.0.0",
+  "title": "Typing Speed Test",
+  "description": "Test and improve your typing speed! Type emergency preparedness passages and track your WPM and accuracy. Beat your personal best!",
+  "shortDescription": "Test your typing speed in WPM",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "typing", "skills", "speed", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-typing-test-g3n4",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

@@ -1,0 +1,25 @@
+{
+  "id": "g2b3",
+  "version": "1.0.0",
+  "title": "Whack-a-Mole",
+  "description": "Test your reflexes by whacking moles as they pop up! Features multiple difficulty levels and high score tracking. Great for improving reaction time.",
+  "shortDescription": "Fast-paced reflex whacking game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "arcade", "reflex", "reaction", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-whack-mole-g2b3",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

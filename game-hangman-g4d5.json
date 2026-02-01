@@ -1,0 +1,25 @@
+{
+  "id": "g4d5",
+  "version": "1.0.0",
+  "title": "Hangman - Survival Words",
+  "description": "Guess the survival-themed word letter by letter before running out of attempts. Learn essential emergency vocabulary while having fun. Features hints for each word.",
+  "shortDescription": "Word guessing with survival vocabulary",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "word", "educational", "vocabulary", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-hangman-g4d5",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

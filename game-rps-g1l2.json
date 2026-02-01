@@ -1,0 +1,25 @@
+{
+  "id": "g1l2",
+  "version": "1.0.0",
+  "title": "Rock Paper Scissors",
+  "description": "The classic hand game against the computer. Rock beats scissors, scissors beats paper, paper beats rock. Track your wins, losses, and streak!",
+  "shortDescription": "Classic hand game vs computer",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "classic", "quick", "casual", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-rps-g1l2",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 45
+}

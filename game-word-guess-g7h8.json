@@ -1,0 +1,25 @@
+{
+  "id": "g7h8",
+  "version": "1.0.0",
+  "title": "Word Guess",
+  "description": "Wordle-style game with survival vocabulary. Guess the 5-letter word in 6 tries. Colors show if letters are correct, present, or absent. Track your win streak!",
+  "shortDescription": "Daily word puzzle game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "word", "puzzle", "wordle", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-word-guess-g7h8",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 35
+}

@@ -1,0 +1,25 @@
+{
+  "id": "g5p6",
+  "version": "1.0.0",
+  "title": "Math Quiz",
+  "description": "Sharpen your mental math skills! Answer arithmetic questions against the clock. Choose difficulty and operators. Build your streak for high scores!",
+  "shortDescription": "Timed arithmetic quiz game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "math", "educational", "quiz", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-math-quiz-g5p6",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

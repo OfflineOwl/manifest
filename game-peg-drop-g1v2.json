@@ -1,0 +1,20 @@
+{
+  "id": "game-peg-drop-g1v2",
+  "version": "1.0.0",
+  "title": "Peg Popper",
+  "description": "Aim and shoot balls at pegs in this physics-based puzzle game! Clear all orange pegs to win. Catch the ball in the bucket for a free ball. Collect power-ups for bonus points.",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "physics", "arcade", "offline"],
+  "author": "OfflineOwl Contributors",
+  "license": "CC-BY-SA",
+  "language": "en",
+  "verified": true,
+  "featured": false,
+  "isFirstParty": true,
+  "localContent": {
+    "path": "game-peg-drop-g1v2",
+    "entryPoint": "index.html",
+    "format": "html"
+  }
+}

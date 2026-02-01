@@ -1,0 +1,20 @@
+{
+  "id": "game-gems-g2w3",
+  "version": "1.0.0",
+  "title": "Gem Crush",
+  "description": "Match 3 or more gems by swapping adjacent pieces! Create combos for bonus points. Reach the target score before running out of moves. Progress through increasingly challenging levels.",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "match-3", "strategy", "offline"],
+  "author": "OfflineOwl Contributors",
+  "license": "CC-BY-SA",
+  "language": "en",
+  "verified": true,
+  "featured": false,
+  "isFirstParty": true,
+  "localContent": {
+    "path": "game-gems-g2w3",
+    "entryPoint": "index.html",
+    "format": "html"
+  }
+}

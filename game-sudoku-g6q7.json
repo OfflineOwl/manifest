@@ -1,0 +1,25 @@
+{
+  "id": "g6q7",
+  "version": "1.0.0",
+  "title": "Sudoku",
+  "description": "The classic number placement puzzle. Fill the 9x9 grid so each row, column, and 3x3 box contains digits 1-9. Three difficulty levels available.",
+  "shortDescription": "Classic number placement puzzle",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "logic", "numbers", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-sudoku-g6q7",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 35
+}

@@ -1,0 +1,25 @@
+{
+  "id": "g0k1",
+  "version": "1.0.0",
+  "title": "Pong",
+  "description": "The original video game! Bounce the ball past your opponent to score. Play against the computer with adjustable difficulty. First to 5 wins!",
+  "shortDescription": "Classic paddle and ball game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "arcade", "classic", "sports", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-pong-g0k1",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

@@ -1,0 +1,25 @@
+{
+  "id": "g9t0",
+  "version": "1.0.0",
+  "title": "Word Scramble",
+  "description": "Unscramble survival-themed words against the clock! Tap letters in order to spell the word. Hints help you learn essential emergency vocabulary.",
+  "shortDescription": "Unscramble survival vocabulary",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "word", "puzzle", "vocabulary", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-word-scramble-g9t0",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

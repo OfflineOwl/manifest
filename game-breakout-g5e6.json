@@ -1,0 +1,25 @@
+{
+  "id": "g5e6",
+  "version": "1.0.0",
+  "title": "Breakout",
+  "description": "Classic brick-breaking arcade game. Control the paddle to bounce the ball and destroy all bricks. Features multiple levels with increasing difficulty.",
+  "shortDescription": "Classic brick-breaking arcade game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "arcade", "classic", "action", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-breakout-g5e6",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 40
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g3m9",
+  "version": "1.0.0",
+  "title": "Signal Sequence",
+  "description": "Train your pattern memory with this Simon Says-style game themed around emergency signal patterns. Watch the color sequence and repeat it back. Features three speed modes, sound effects, and tracks your best scores. Great for improving memory and focus.",
+  "shortDescription": "Pattern memory game - remember the signal sequence",
+  "type": "game",
+  "category": "entertainment",
+  "tags": [
+    "game",
+    "memory",
+    "pattern",
+    "simon-says",
+    "offline",
+    "entertainment",
+    "brain-training"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-simon-says-g3m9",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 30
+}

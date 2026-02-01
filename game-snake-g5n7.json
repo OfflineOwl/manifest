@@ -1,0 +1,32 @@
+{
+  "id": "g5n7",
+  "version": "1.0.0",
+  "title": "Snake: Supply Run",
+  "description": "Classic snake game with a survival twist! Guide your snake to collect emergency supplies like water, food, and medical kits. Each supply has different point values. Features touch controls, keyboard support, and local high score tracking.",
+  "shortDescription": "Classic snake game collecting survival supplies",
+  "type": "game",
+  "category": "entertainment",
+  "tags": [
+    "game",
+    "snake",
+    "arcade",
+    "offline",
+    "entertainment",
+    "classic"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-snake-g5n7",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 30
+}

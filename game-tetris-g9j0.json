@@ -1,0 +1,25 @@
+{
+  "id": "g9j0",
+  "version": "1.0.0",
+  "title": "Tetris",
+  "description": "The legendary falling blocks game. Rotate and place tetrominoes to complete lines. Speed increases with level. Touch and keyboard controls supported.",
+  "shortDescription": "Classic falling blocks puzzle",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "classic", "arcade", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-tetris-g9j0",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": true,
+  "priority": 30
+}

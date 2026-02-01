@@ -1,0 +1,25 @@
+{
+  "id": "g2m3",
+  "version": "1.0.0",
+  "title": "Number Guess",
+  "description": "Guess the secret number with higher/lower hints. Multiple difficulty ranges from 1-50 to 1-500. Track your best attempts and win streak!",
+  "shortDescription": "Guess the secret number game",
+  "type": "game",
+  "category": "entertainment",
+  "tags": ["game", "puzzle", "numbers", "guessing", "offline"],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "content/game-number-guess-g2m3",
+    "ref": "main",
+    "entryPoint": "index.html",
+    "format": "html"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 45
+}
