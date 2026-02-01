@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/cooling-extreme-heat-p6s3",
+    "path": "resource/cooling-extreme-heat-p6s3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

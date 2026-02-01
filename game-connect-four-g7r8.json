@@ -9,7 +9,7 @@
   "tags": ["game", "strategy", "classic", "multiplayer", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-connect-four-g7r8",
+    "path": "resource/game-connect-four-g7r8",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

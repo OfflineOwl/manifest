@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-childbirth-r3u1",
+    "path": "resource/emergency-childbirth-r3u1",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

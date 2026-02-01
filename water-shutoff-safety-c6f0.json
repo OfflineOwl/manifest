@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/water-shutoff-safety-c6f0",
+    "path": "resource/water-shutoff-safety-c6f0",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

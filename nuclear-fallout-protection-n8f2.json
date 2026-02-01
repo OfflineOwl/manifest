@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/nuclear-fallout-protection-n8f2",
+    "path": "resource/nuclear-fallout-protection-n8f2",
     "ref": "main",
     "entryPoint": "index.mdx",
     "format": "mdx"

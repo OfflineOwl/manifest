@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/signal-flags-whistles-a0d7",
+    "path": "resource/signal-flags-whistles-a0d7",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

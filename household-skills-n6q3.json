@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/household-skills-n6q3",
+    "path": "resource/household-skills-n6q3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

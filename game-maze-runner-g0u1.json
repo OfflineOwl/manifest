@@ -9,7 +9,7 @@
   "tags": ["game", "maze", "puzzle", "navigation", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-maze-runner-g0u1",
+    "path": "resource/game-maze-runner-g0u1",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

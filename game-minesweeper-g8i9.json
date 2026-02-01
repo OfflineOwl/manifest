@@ -9,7 +9,7 @@
   "tags": ["game", "puzzle", "logic", "classic", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-minesweeper-g8i9",
+    "path": "resource/game-minesweeper-g8i9",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

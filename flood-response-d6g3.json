@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/flood-response-d6g3",
+    "path": "resource/flood-response-d6g3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

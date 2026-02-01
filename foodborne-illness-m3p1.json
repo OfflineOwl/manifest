@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/foodborne-illness-m3p1",
+    "path": "resource/foodborne-illness-m3p1",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

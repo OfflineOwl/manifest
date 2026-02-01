@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/rationing-calorie-planning-l8o7",
+    "path": "resource/rationing-calorie-planning-l8o7",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

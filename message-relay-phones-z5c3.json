@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/message-relay-phones-z5c3",
+    "path": "resource/message-relay-phones-z5c3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

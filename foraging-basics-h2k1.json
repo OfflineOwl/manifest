@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/foraging-basics-h2k1",
+    "path": "resource/foraging-basics-h2k1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

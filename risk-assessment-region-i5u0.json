@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/risk-assessment-region-i5u0",
+    "path": "resource/risk-assessment-region-i5u0",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

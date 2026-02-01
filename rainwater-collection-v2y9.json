@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/rainwater-collection-v2y9",
+    "path": "resource/rainwater-collection-v2y9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

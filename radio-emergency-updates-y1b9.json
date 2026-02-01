@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/radio-emergency-updates-y1b9",
+    "path": "resource/radio-emergency-updates-y1b9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

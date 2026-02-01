@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-desalination-y4b2",
+    "path": "resource/emergency-desalination-y4b2",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

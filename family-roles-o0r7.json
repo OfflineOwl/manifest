@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/family-roles-o0r7",
+    "path": "resource/family-roles-o0r7",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

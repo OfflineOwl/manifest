@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/evacuation-routes-rally-points-e2q7",
+    "path": "resource/evacuation-routes-rally-points-e2q7",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/verifying-information-c8f5",
+    "path": "resource/verifying-information-c8f5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

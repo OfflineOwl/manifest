@@ -9,7 +9,7 @@
   "tags": ["game", "arcade", "classic", "sports", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-pong-g0k1",
+    "path": "resource/game-pong-g0k1",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

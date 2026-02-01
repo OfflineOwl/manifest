@@ -9,7 +9,7 @@
   "tags": ["game", "brain", "reaction", "colors", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-color-match-g4o5",
+    "path": "resource/game-color-match-g4o5",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

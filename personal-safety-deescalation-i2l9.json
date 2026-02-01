@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/personal-safety-deescalation-i2l9",
+    "path": "resource/personal-safety-deescalation-i2l9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

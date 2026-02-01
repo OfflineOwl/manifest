@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/home-security-unrest-h8k5",
+    "path": "resource/home-security-unrest-h8k5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

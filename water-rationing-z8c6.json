@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/water-rationing-z8c6",
+    "path": "resource/water-rationing-z8c6",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

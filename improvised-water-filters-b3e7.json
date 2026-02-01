@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/improvised-water-filters-b3e7",
+    "path": "resource/improvised-water-filters-b3e7",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/situational-awareness-h1t4",
+    "path": "resource/situational-awareness-h1t4",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

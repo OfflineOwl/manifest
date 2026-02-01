@@ -9,7 +9,7 @@
   "tags": ["game", "word", "educational", "vocabulary", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-hangman-g4d5",
+    "path": "resource/game-hangman-g4d5",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

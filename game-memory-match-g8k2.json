@@ -16,7 +16,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-memory-match-g8k2",
+    "path": "resource/game-memory-match-g8k2",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

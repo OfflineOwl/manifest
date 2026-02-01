@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/hygiene-limited-water-a9d1",
+    "path": "resource/hygiene-limited-water-a9d1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

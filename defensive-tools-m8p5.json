@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/defensive-tools-m8p5",
+    "path": "resource/defensive-tools-m8p5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

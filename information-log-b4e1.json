@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/information-log-b4e1",
+    "path": "resource/information-log-b4e1",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

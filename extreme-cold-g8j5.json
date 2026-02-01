@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/extreme-cold-g8j5",
+    "path": "resource/extreme-cold-g8j5",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/tsunami-response-k4n1",
+    "path": "resource/tsunami-response-k4n1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

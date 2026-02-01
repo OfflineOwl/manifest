@@ -9,7 +9,7 @@
   "tags": ["game", "reflex", "speed", "test", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-reaction-test-g8s9",
+    "path": "resource/game-reaction-test-g8s9",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

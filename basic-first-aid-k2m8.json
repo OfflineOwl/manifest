@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/basic-first-aid-k2m8",
+    "path": "resource/basic-first-aid-k2m8",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -9,7 +9,7 @@
   "tags": ["game", "puzzle", "numbers", "guessing", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-number-guess-g2m3",
+    "path": "resource/game-number-guess-g2m3",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

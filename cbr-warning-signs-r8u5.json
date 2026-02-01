@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/cbr-warning-signs-r8u5",
+    "path": "resource/cbr-warning-signs-r8u5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

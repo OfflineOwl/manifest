@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/extreme-heat-survival-h2k9",
+    "path": "resource/extreme-heat-survival-h2k9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

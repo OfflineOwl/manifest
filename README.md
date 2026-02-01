@@ -23,7 +23,7 @@ registry/
 
 ## How It Works
 
-Each JSON file in `content/` describes a piece of content and where to find it:
+Each JSON file describes a piece of content and where to find it:
 
 ### External Content
 Points to content hosted on CDNs, Archive.org, etc.

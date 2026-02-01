@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-nutrition-kids-k4n3",
+    "path": "resource/emergency-nutrition-kids-k4n3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/nighttime-safety-n2q9",
+    "path": "resource/nighttime-safety-n2q9",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

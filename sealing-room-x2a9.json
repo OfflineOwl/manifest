@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/sealing-room-x2a9",
+    "path": "resource/sealing-room-x2a9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

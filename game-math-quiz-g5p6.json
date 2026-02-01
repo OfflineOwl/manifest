@@ -9,7 +9,7 @@
   "tags": ["game", "math", "educational", "quiz", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-math-quiz-g5p6",
+    "path": "resource/game-math-quiz-g5p6",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

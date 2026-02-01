@@ -9,7 +9,7 @@
   "tags": ["game", "arcade", "action", "endless", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-flappy-g6f7",
+    "path": "resource/game-flappy-g6f7",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

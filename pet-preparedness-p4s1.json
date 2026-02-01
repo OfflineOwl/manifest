@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/pet-preparedness-p4s1",
+    "path": "resource/pet-preparedness-p4s1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

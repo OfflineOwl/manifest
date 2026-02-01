@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/looting-awareness-p0s7",
+    "path": "resource/looting-awareness-p0s7",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

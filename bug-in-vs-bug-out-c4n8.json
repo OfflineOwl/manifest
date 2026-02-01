@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/bug-in-vs-bug-out-c4n8",
+    "path": "resource/bug-in-vs-bug-out-c4n8",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

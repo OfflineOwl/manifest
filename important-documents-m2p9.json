@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/important-documents-m2p9",
+    "path": "resource/important-documents-m2p9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

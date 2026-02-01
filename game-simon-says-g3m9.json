@@ -17,7 +17,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-simon-says-g3m9",
+    "path": "resource/game-simon-says-g3m9",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

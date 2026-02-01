@@ -9,7 +9,7 @@
   "tags": ["game", "arcade", "classic", "action", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-breakout-g5e6",
+    "path": "resource/game-breakout-g5e6",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

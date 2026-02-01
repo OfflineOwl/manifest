@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/water-storage-rotation-w5z4",
+    "path": "resource/water-storage-rotation-w5z4",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

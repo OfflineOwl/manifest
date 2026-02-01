@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/treating-burns-cuts-fractures-n4q2",
+    "path": "resource/treating-burns-cuts-fractures-n4q2",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

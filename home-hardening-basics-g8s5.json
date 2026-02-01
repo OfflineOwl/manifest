@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/home-hardening-basics-g8s5",
+    "path": "resource/home-hardening-basics-g8s5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

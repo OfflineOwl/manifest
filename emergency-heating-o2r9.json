@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-heating-o2r9",
+    "path": "resource/emergency-heating-o2r9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

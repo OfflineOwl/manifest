@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/sprouting-fast-foods-i6l5",
+    "path": "resource/sprouting-fast-foods-i6l5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

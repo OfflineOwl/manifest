@@ -9,7 +9,7 @@
   "tags": ["game", "typing", "skills", "speed", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-typing-test-g3n4",
+    "path": "resource/game-typing-test-g3n4",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

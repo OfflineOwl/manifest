@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/volcanic-ash-j0m7",
+    "path": "resource/volcanic-ash-j0m7",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/no-cook-meal-planning-e1h7",
+    "path": "resource/no-cook-meal-planning-e1h7",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

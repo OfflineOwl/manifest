@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/quarantine-isolation-w8z5",
+    "path": "resource/quarantine-isolation-w8z5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

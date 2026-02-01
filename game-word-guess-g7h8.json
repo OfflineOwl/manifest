@@ -9,7 +9,7 @@
   "tags": ["game", "word", "puzzle", "wordle", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-word-guess-g7h8",
+    "path": "resource/game-word-guess-g7h8",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/generator-safety-w3z1",
+    "path": "resource/generator-safety-w3z1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

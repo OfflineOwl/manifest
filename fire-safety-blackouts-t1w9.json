@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/fire-safety-blackouts-t1w9",
+    "path": "resource/fire-safety-blackouts-t1w9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/preserving-food-j0m9",
+    "path": "resource/preserving-food-j0m9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

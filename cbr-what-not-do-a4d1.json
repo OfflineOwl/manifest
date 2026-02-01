@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/cbr-what-not-do-a4d1",
+    "path": "resource/cbr-what-not-do-a4d1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

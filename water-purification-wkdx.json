@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/water-purification-wkdx",
+    "path": "resource/water-purification-wkdx",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

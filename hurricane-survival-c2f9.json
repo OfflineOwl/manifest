@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/hurricane-survival-c2f9",
+    "path": "resource/hurricane-survival-c2f9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

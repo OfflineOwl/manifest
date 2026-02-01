@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/contaminated-water-signs-x1a8",
+    "path": "resource/contaminated-water-signs-x1a8",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

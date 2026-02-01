@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/tornado-safety-f4i1",
+    "path": "resource/tornado-safety-f4i1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/defensive-driving-k0n7",
+    "path": "resource/defensive-driving-k0n7",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

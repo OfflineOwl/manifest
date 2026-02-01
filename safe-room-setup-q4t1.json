@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/safe-room-setup-q4t1",
+    "path": "resource/safe-room-setup-q4t1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

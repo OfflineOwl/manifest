@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/self-treat-vs-seek-help-t2w8",
+    "path": "resource/self-treat-vs-seek-help-t2w8",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

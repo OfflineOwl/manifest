@@ -9,7 +9,7 @@
   "tags": ["game", "word", "puzzle", "vocabulary", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-word-scramble-g9t0",
+    "path": "resource/game-word-scramble-g9t0",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/radiation-safety-v4y1",
+    "path": "resource/radiation-safety-v4y1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

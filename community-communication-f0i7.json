@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/community-communication-f0i7",
+    "path": "resource/community-communication-f0i7",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

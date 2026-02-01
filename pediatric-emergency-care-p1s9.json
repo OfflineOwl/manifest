@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/pediatric-emergency-care-p1s9",
+    "path": "resource/pediatric-emergency-care-p1s9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

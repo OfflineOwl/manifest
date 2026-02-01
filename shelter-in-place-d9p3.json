@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/shelter-in-place-d9p3",
+    "path": "resource/shelter-in-place-d9p3",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

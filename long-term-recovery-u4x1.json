@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/long-term-recovery-u4x1",
+    "path": "resource/long-term-recovery-u4x1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/infection-prevention-q6t4",
+    "path": "resource/infection-prevention-q6t4",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

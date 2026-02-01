@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/battery-management-r4u1",
+    "path": "resource/battery-management-r4u1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

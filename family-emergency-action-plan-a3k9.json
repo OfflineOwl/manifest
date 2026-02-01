@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/family-emergency-action-plan-a3k9",
+    "path": "resource/family-emergency-action-plan-a3k9",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

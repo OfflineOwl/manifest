@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-food-storage-d8g3",
+    "path": "resource/emergency-food-storage-d8g3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

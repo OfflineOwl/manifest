@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/food-safety-no-fridge-g9j6",
+    "path": "resource/food-safety-no-fridge-g9j6",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

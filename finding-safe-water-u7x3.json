@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/finding-safe-water-u7x3",
+    "path": "resource/finding-safe-water-u7x3",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

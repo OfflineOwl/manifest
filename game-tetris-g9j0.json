@@ -9,7 +9,7 @@
   "tags": ["game", "puzzle", "classic", "arcade", "offline"],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-tetris-g9j0",
+    "path": "resource/game-tetris-g9j0",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

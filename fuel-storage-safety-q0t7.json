@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/fuel-storage-safety-q0t7",
+    "path": "resource/fuel-storage-safety-q0t7",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

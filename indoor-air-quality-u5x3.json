@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/indoor-air-quality-u5x3",
+    "path": "resource/indoor-air-quality-u5x3",
     "ref": "main",
     "entryPoint": "index.txt",
     "format": "txt"

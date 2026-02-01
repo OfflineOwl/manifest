@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/mental-health-crisis-s7v5",
+    "path": "resource/mental-health-crisis-s7v5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -16,7 +16,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/game-snake-g5n7",
+    "path": "resource/game-snake-g5n7",
     "ref": "main",
     "entryPoint": "index.html",
     "format": "html"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/go-bag-essentials-f6r1",
+    "path": "resource/go-bag-essentials-f6r1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

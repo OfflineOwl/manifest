@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-communications-plan-j3v6",
+    "path": "resource/emergency-communications-plan-j3v6",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

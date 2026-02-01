@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/emergency-cash-barter-l8o5",
+    "path": "resource/emergency-cash-barter-l8o5",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

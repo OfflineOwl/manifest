@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/when-stay-silent-g4j1",
+    "path": "resource/when-stay-silent-g4j1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"

@@ -14,7 +14,7 @@
   ],
   "localContent": {
     "repo": "https://github.com/offlineowl/content",
-    "path": "content/crowd-avoidance-l4o1",
+    "path": "resource/crowd-avoidance-l4o1",
     "ref": "main",
     "entryPoint": "index.md",
     "format": "md"
