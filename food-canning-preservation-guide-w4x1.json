@@ -1,0 +1,31 @@
+{
+  "id": "w4x1",
+  "version": "1.0.0",
+  "title": "Food Canning & Preservation",
+  "description": "Comprehensive guide covering food canning and preservation methods. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Food Canning & Preservation - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "canning",
+    "preservation",
+    "food-storage",
+    "dehydrating",
+    "smoking"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/food-canning-preservation-guide-w4x1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

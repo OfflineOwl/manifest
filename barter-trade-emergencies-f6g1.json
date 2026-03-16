@@ -1,0 +1,31 @@
+{
+  "id": "f6g1",
+  "version": "1.0.0",
+  "title": "Barter & Trade in Emergencies",
+  "description": "Comprehensive guide covering barter and trade during emergencies. Includes high-value trade items, fair exchange practices, trade security, and historical examples from real disasters.",
+  "shortDescription": "Barter & Trade in Emergencies - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "barter",
+    "trade",
+    "currency",
+    "economics",
+    "exchange"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/barter-trade-emergencies-f6g1",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

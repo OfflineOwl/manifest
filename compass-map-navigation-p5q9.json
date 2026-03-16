@@ -1,0 +1,31 @@
+{
+  "id": "p5q9",
+  "version": "1.0.0",
+  "title": "Compass & Map Navigation",
+  "description": "Comprehensive guide covering compass and map navigation. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Compass & Map Navigation - Emergency preparedness guide",
+  "type": "guide",
+  "category": "communication",
+  "tags": [
+    "navigation",
+    "compass",
+    "maps",
+    "orienteering",
+    "land-nav"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/compass-map-navigation-p5q9",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

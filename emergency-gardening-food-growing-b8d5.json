@@ -1,0 +1,31 @@
+{
+  "id": "b8d5",
+  "version": "1.0.0",
+  "title": "Emergency Gardening & Food Growing",
+  "description": "Comprehensive guide covering emergency gardening and food growing. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Emergency Gardening & Food Growing - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "gardening",
+    "food-production",
+    "seeds",
+    "growing",
+    "self-sufficiency"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/emergency-gardening-food-growing-b8d5",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

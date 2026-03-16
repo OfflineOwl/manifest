@@ -1,0 +1,31 @@
+{
+  "id": "m2t8",
+  "version": "1.0.0",
+  "title": "Solar Power for Emergencies",
+  "description": "Comprehensive guide covering solar power for emergency situations. Includes portable power stations, solar panel sizing, battery types, and practical off-grid charging solutions.",
+  "shortDescription": "Solar Power for Emergencies - Emergency preparedness guide",
+  "type": "guide",
+  "category": "shelter",
+  "tags": [
+    "solar",
+    "power",
+    "energy",
+    "off-grid",
+    "charging"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/solar-power-emergencies-m2t8",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

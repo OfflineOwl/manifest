@@ -1,0 +1,31 @@
+{
+  "id": "c9e2",
+  "version": "1.0.0",
+  "title": "Special Needs Preparedness",
+  "description": "Comprehensive guide covering special needs preparedness for emergencies. Includes practical steps, checklists, and essential information for families with elderly members, infants, and individuals with disabilities.",
+  "shortDescription": "Special Needs Preparedness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "elderly",
+    "disability",
+    "infant",
+    "special-needs",
+    "accessibility"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/special-needs-preparedness-c9e2",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

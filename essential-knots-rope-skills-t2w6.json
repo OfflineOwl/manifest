@@ -1,0 +1,31 @@
+{
+  "id": "t2w6",
+  "version": "1.0.0",
+  "title": "Essential Knots & Rope Skills",
+  "description": "Comprehensive guide covering essential knots and rope skills. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Essential Knots & Rope Skills - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "knots",
+    "rope",
+    "paracord",
+    "shelter",
+    "skills"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/essential-knots-rope-skills-t2w6",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

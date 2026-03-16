@@ -1,0 +1,31 @@
+{
+  "id": "k7n3",
+  "version": "1.0.0",
+  "title": "EMP & Grid-Down Preparedness",
+  "description": "Comprehensive guide covering EMP events and grid-down scenarios. Includes practical steps for building Faraday cages, protecting electronics, and surviving extended power outages.",
+  "shortDescription": "EMP & Grid-Down Preparedness - Emergency preparedness guide",
+  "type": "guide",
+  "category": "survival",
+  "tags": [
+    "emp",
+    "grid-down",
+    "electronics",
+    "faraday",
+    "power"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/emp-grid-down-preparedness-k7n3",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}

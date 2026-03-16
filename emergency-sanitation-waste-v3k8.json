@@ -1,0 +1,30 @@
+{
+  "id": "v3k8",
+  "version": "1.0.0",
+  "title": "Emergency Sanitation & Waste Disposal",
+  "description": "Comprehensive guide covering emergency sanitation and waste disposal. Includes practical steps, checklists, and essential information for emergency preparedness.",
+  "shortDescription": "Emergency Sanitation & Waste Disposal - Emergency preparedness guide",
+  "type": "guide",
+  "category": "food-water",
+  "tags": [
+    "sanitation",
+    "hygiene",
+    "waste",
+    "health"
+  ],
+  "localContent": {
+    "repo": "https://github.com/offlineowl/content",
+    "path": "resource/emergency-sanitation-waste-v3k8",
+    "ref": "main",
+    "entryPoint": "index.md",
+    "format": "md"
+  },
+  "license": "cc-by-sa",
+  "author": "OfflineOwl Contributors",
+  "language": "en",
+  "createdAt": "2026-03-16T00:00:00.000Z",
+  "updatedAt": "2026-03-16T00:00:00.000Z",
+  "verified": true,
+  "featured": false,
+  "priority": 50
+}
