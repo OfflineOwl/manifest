@@ -8,7 +8,7 @@
   "category": "shelter",
   "tags": ["shelter", "survival", "building", "camping", "emergency", "bushcraft"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/shelter/emergency-shelter-building.pdf",
+    "url": "https://cdn.offlineowl.com/content/shelter/emergency-shelter-building.pdf",
     "size": 5200000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "pdf"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/shelter-building.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/shelter-building.jpg",
   "license": "cc-by",
   "author": "Wilderness Survival School",
   "language": "en",

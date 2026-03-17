@@ -8,7 +8,7 @@
   "category": "medical",
   "tags": ["first-aid", "medical", "emergency", "cpr", "wounds", "training"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/medical/first-aid-fundamentals.mp4",
+    "url": "https://cdn.offlineowl.com/content/medical/first-aid-fundamentals.mp4",
     "size": 450000000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,8 +16,8 @@
     },
     "format": "mp4"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/first-aid.jpg",
-  "preview": "https://cdn.offlineowl.app/previews/first-aid-preview.mp4",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/first-aid.jpg",
+  "preview": "https://cdn.offlineowl.com/previews/first-aid-preview.mp4",
   "license": "cc-by-nc",
   "author": "Emergency Medical Training Institute",
   "language": "en",

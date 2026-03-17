@@ -43,7 +43,7 @@ ID: "a7x9"
 
 ### Generating an ID
 
-Use the [ID Generator Tool](https://offlineowl.app/tools/id-generator) to:
+Use the [ID Generator Tool](https://offlineowl.com/tools/id-generator) to:
 1. Enter your content title
 2. Get a unique 4-char ID
 3. Check availability against existing manifest

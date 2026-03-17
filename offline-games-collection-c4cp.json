@@ -8,7 +8,7 @@
   "category": "entertainment",
   "tags": ["games", "puzzles", "entertainment", "offline", "family"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/entertainment/offline-games-collection.zip",
+    "url": "https://cdn.offlineowl.com/content/entertainment/offline-games-collection.zip",
     "size": 25000000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "zip"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/games-collection.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/games-collection.jpg",
   "license": "mit",
   "author": "OfflineOwl Community",
   "language": "en",

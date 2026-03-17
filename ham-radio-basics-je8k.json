@@ -8,7 +8,7 @@
   "category": "communication",
   "tags": ["radio", "ham", "communication", "emergency", "amateur-radio"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/communication/ham-radio-basics.pdf",
+    "url": "https://cdn.offlineowl.com/content/communication/ham-radio-basics.pdf",
     "size": 12000000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "pdf"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/ham-radio.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/ham-radio.jpg",
   "license": "cc-by-nc-sa",
   "author": "Amateur Radio Emergency Service",
   "source": "https://www.arrl.org",

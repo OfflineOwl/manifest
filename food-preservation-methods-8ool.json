@@ -8,7 +8,7 @@
   "category": "food-water",
   "tags": ["food", "preservation", "canning", "smoking", "drying", "fermentation"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/food-water/food-preservation-methods.pdf",
+    "url": "https://cdn.offlineowl.com/content/food-water/food-preservation-methods.pdf",
     "size": 8500000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "pdf"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/food-preservation.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/food-preservation.jpg",
   "license": "public-domain",
   "author": "USDA Extension Service",
   "source": "https://www.usda.gov",

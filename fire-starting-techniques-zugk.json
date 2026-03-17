@@ -8,7 +8,7 @@
   "category": "survival",
   "tags": ["fire", "survival", "emergency", "camping", "bushcraft"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/survival/fire-starting-techniques.pdf",
+    "url": "https://cdn.offlineowl.com/content/survival/fire-starting-techniques.pdf",
     "size": 3200000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "pdf"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/fire-starting.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/fire-starting.jpg",
   "license": "cc-by",
   "author": "Wilderness Skills Institute",
   "language": "en",

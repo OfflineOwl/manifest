@@ -8,7 +8,7 @@
   "category": "reference",
   "tags": ["wikipedia", "encyclopedia", "reference", "knowledge", "offline"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/reference/offline-wikipedia-essential.zim",
+    "url": "https://cdn.offlineowl.com/content/reference/offline-wikipedia-essential.zim",
     "size": 8500000000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "zim"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/wikipedia-offline.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/wikipedia-offline.jpg",
   "license": "cc-by-sa",
   "author": "Wikimedia Foundation",
   "source": "https://wikipedia.org",

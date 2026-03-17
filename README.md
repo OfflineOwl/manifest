@@ -1,6 +1,6 @@
 # OfflineOwl Official Manifest
 
-The official content manifest for [OfflineOwl](https://offlineowl.app) - your offline survival and preparedness companion.
+The official content manifest for [OfflineOwl](https://offlineowl.com) - your offline survival and preparedness companion.
 
 **This repository contains only metadata** (JSON index files). Actual content is hosted externally or in the [OfflineOwl Content](https://github.com/offlineowl/content) repository.
 
@@ -32,7 +32,7 @@ Points to content hosted on CDNs, Archive.org, etc.
 {
   "id": "ham-radio-basics",
   "download": {
-    "url": "https://cdn.offlineowl.app/content/ham-radio.pdf",
+    "url": "https://cdn.offlineowl.com/content/ham-radio.pdf",
     "size": 12000000,
     "format": "pdf"
   }

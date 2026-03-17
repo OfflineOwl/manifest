@@ -8,7 +8,7 @@
   "category": "medical",
   "tags": ["herbal", "medicine", "plants", "natural", "remedies", "foraging"],
   "download": {
-    "url": "https://cdn.offlineowl.app/content/medical/herbal-medicine-guide.epub",
+    "url": "https://cdn.offlineowl.com/content/medical/herbal-medicine-guide.epub",
     "size": 15000000,
     "checksum": {
       "algorithm": "sha256",
@@ -16,7 +16,7 @@
     },
     "format": "epub"
   },
-  "thumbnail": "https://cdn.offlineowl.app/thumbnails/herbal-medicine.jpg",
+  "thumbnail": "https://cdn.offlineowl.com/thumbnails/herbal-medicine.jpg",
   "license": "cc-by-sa",
   "author": "Traditional Medicine Archive",
   "language": "en",
