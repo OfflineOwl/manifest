@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "type": "official",
   "homepage": "https://offlineowl.app",
-  "repository": "https://github.com/offlineowl/registry",
+  "repository": "https://github.com/offlineowl/manifest",
   "maintainers": [
     {
       "name": "OfflineOwl Team",

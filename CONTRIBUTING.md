@@ -1,20 +1,20 @@
-# Contributing to the OfflineOwl Registry
+# Contributing to the OfflineOwl Manifest
 
-Thank you for your interest in contributing to the OfflineOwl content registry!
+Thank you for your interest in contributing to the OfflineOwl content manifest!
 
 ## Important: Two Repositories
 
 | Repository | Purpose |
 |------------|---------|
-| **This repo** (`registry`) | JSON metadata files only |
+| **This repo** (`manifest`) | JSON metadata files only |
 | [offlineowl/content](https://github.com/offlineowl/content) | First-party authored content (guides, games, etc.) |
 
 **This repo is intentionally lightweight** - just JSON files that index content. This makes it easy for the community to browse, edit, and contribute without navigating through hundreds of content files.
 
-## Registry Structure
+## Manifest Structure
 
 ```
-registry/
+manifest/
 ├── registry.json              # Registry metadata
 ├── water-purification-guide.json
 ├── first-aid-fundamentals.json
@@ -46,7 +46,7 @@ ID: "a7x9"
 Use the [ID Generator Tool](https://offlineowl.app/tools/id-generator) to:
 1. Enter your content title
 2. Get a unique 4-char ID
-3. Check availability against existing registry
+3. Check availability against existing manifest
 4. Use ID for both filename suffix and JSON id field
 
 ---
@@ -205,20 +205,20 @@ Use one of these license identifiers:
 After adding or modifying content, regenerate the index:
 
 ```bash
-npx @offlineowl/registry build-index .
+npx @offlineowl/manifest build-index .
 ```
 
 This will update `index.json` with the latest content metadata.
 
-## Creating Your Own Registry
+## Creating Your Own Manifest
 
-You can create your own registry by:
+You can create your own manifest by:
 
 1. Fork this repository structure
-2. Modify `registry.json` with your registry's metadata
+2. Modify `registry.json` with your manifest's metadata
 3. Add your content items
 4. Host your repository (GitHub, GitLab, etc.)
-5. Users can add your registry URL in OfflineOwl
+5. Users can add your manifest URL in OfflineOwl
 
 ### Registry Types
 

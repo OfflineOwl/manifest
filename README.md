@@ -1,13 +1,13 @@
-# OfflineOwl Official Registry
+# OfflineOwl Official Manifest
 
-The official content registry for [OfflineOwl](https://offlineowl.app) - your offline survival and preparedness companion.
+The official content manifest for [OfflineOwl](https://offlineowl.app) - your offline survival and preparedness companion.
 
 **This repository contains only metadata** (JSON index files). Actual content is hosted externally or in the [OfflineOwl Content](https://github.com/offlineowl/content) repository.
 
 ## Structure
 
 ```
-registry/
+manifest/
 ├── registry.json              # Registry metadata
 ├── water-purification-guide.json
 ├── fire-starting-techniques.json
@@ -61,12 +61,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 **To add first-party content:** Submit PRs to both this repo (metadata) and [offlineowl/content](https://github.com/offlineowl/content) (actual content).
 
-## Using This Registry
+## Using This Manifest
 
-Add this registry to your OfflineOwl app:
+Add this manifest to your OfflineOwl app:
 
 ```
-https://github.com/offlineowl/registry
+https://github.com/offlineowl/manifest
 ```
 
 ## Categories
@@ -89,4 +89,4 @@ https://github.com/offlineowl/registry
 
 ## License
 
-Metadata in this registry is public domain. Content items are licensed individually - see each item's `license` field.
+Metadata in this manifest is public domain. Content items are licensed individually - see each item's `license` field.
