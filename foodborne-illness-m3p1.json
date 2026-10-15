@@ -2,8 +2,8 @@
   "id": "m3p1",
   "version": "1.0.0",
   "title": "Foodborne Illness",
-  "description": "Quick reference guide for foodborne illness. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Foodborne Illness - Emergency preparedness guide",
+  "description": "Plain-text reference on bacterial, viral, parasitic, and toxin causes, typical symptoms, and emergency warning signs. Covers home treatment and diet progression, the clean-separate-cook-chill rules, high-risk foods, food safety without refrigeration or clean water, and a food poisoning log.",
+  "shortDescription": "Recognize food poisoning, know when it's an emergency, and treat it at home",
   "type": "guide",
   "category": "food-water",
   "tags": [

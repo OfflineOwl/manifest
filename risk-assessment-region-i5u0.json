@@ -2,8 +2,8 @@
   "id": "i5u0",
   "version": "1.0.0",
   "title": "Risk Assessment Region",
-  "description": "Interactive web-based guide for risk assessment region with visual elements and user interaction.",
-  "shortDescription": "Risk Assessment Region - Emergency preparedness guide",
+  "description": "Interactive tool: choose one of ten US regions, from the Northeast to Hawaii, to see its main hazards, top preparation priorities, and regional resources, so you prepare for what's actually likely where you live.",
+  "shortDescription": "Pick your US region to see its top hazards and preparation priorities",
   "type": "guide",
   "category": "survival",
   "tags": [

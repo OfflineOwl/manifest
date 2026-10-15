@@ -2,8 +2,8 @@
   "id": "g9j6",
   "version": "1.0.0",
   "title": "Food Safety No Fridge",
-  "description": "Quick reference guide for food safety no fridge. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Food Safety No Fridge - Emergency preparedness guide",
+  "description": "Plain-text reference on the temperature danger zone, how long refrigerated and frozen food stays safe without power, and what to discard. Covers cooler and ice strategies, shelf-stable substitutes, preserving without electricity, cooking temperatures, and the 2-hour rule.",
+  "shortDescription": "How long fridge and freezer food lasts in an outage, and what to toss",
   "type": "guide",
   "category": "food-water",
   "tags": [

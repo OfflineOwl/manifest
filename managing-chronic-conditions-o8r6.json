@@ -2,8 +2,8 @@
   "id": "o8r6",
   "version": "1.0.0",
   "title": "Managing Chronic Conditions",
-  "description": "Quick reference guide for managing chronic conditions. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Managing Chronic Conditions - Emergency preparedness guide",
+  "description": "Plain-text reference with preparation and emergency management for diabetes, heart disease and hypertension, asthma and COPD, epilepsy, kidney disease, and mental health conditions. Covers medication rationing, when to seek care, and a medical documentation template.",
+  "shortDescription": "Diabetes, heart disease, asthma, epilepsy, and kidney care without a clinic",
   "type": "guide",
   "category": "medical",
   "tags": [

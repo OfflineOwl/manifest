@@ -2,8 +2,8 @@
   "id": "y1b9",
   "version": "1.0.0",
   "title": "Radio Emergency Updates",
-  "description": "Comprehensive guide covering radio emergency updates. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Radio Emergency Updates - Emergency preparedness guide",
+  "description": "Compares NOAA weather, AM/FM, shortwave, and scanner radios, the features to look for, and recommended models. Covers finding emergency stations, SAME alert programming, battery conservation, alert types and tones, a check-in schedule, and FRS/GMRS two-way radios.",
+  "shortDescription": "NOAA, AM/FM, shortwave, and scanners, plus SAME alerts and two-way radio",
   "type": "guide",
   "category": "communication",
   "tags": [

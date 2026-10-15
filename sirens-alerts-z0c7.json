@@ -2,8 +2,8 @@
   "id": "z0c7",
   "version": "1.0.0",
   "title": "Sirens Alerts",
-  "description": "Quick reference guide for sirens alerts. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Sirens Alerts - Emergency preparedness guide",
+  "description": "Plain-text guide to outdoor sirens, the Emergency Alert System, Wireless Emergency Alerts, and NOAA Weather Radio. Explains common siren patterns, alert categories and phone settings, monthly tests, layering alert sources, and how to respond to tornado, flood, tsunami, and hazmat warnings.",
+  "shortDescription": "What siren tones and phone alerts mean, and how to respond to each",
   "type": "guide",
   "category": "communication",
   "tags": [

@@ -2,8 +2,8 @@
   "id": "k2m8",
   "version": "1.0.0",
   "title": "Basic First Aid",
-  "description": "Comprehensive guide covering basic first aid. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Basic First Aid - Emergency preparedness guide",
+  "description": "Starts with scene safety and the ABC primary assessment, then walks through unconsciousness, shock, choking, diabetic emergencies, seizures, and anaphylaxis. Covers wound cleaning and improvised bandages, drug-free pain relief, kit essentials, and what to do when professional help can't come.",
+  "shortDescription": "Scene safety, ABCs, shock, choking, seizures, and wound care without power",
   "type": "guide",
   "category": "medical",
   "tags": [

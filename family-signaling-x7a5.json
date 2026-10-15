@@ -2,8 +2,8 @@
   "id": "x7a5",
   "version": "1.0.0",
   "title": "Family Signaling",
-  "description": "Quick reference guide for family signaling. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Family Signaling - Emergency preparedness guide",
+  "description": "Plain-text guide to letting family know you're safe without phones: visual signals at home, check-in schedules, rally point and vehicle signals, whistle codes, and hidden written messages. Covers out-of-area contacts, FRS/GMRS and ham radio, neighborhood signals, and setting up your own system.",
+  "shortDescription": "Window signals, whistle codes, hidden notes, and check-in schedules",
   "type": "guide",
   "category": "communication",
   "tags": [

@@ -2,8 +2,8 @@
   "id": "e6h3",
   "version": "1.0.0",
   "title": "Offline Maps Nav",
-  "description": "Comprehensive guide covering offline maps nav. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Offline Maps Nav - Emergency preparedness guide",
+  "description": "Explains when GPS fails and how to download offline digital maps, then which paper maps to keep and how to read scale and find your location. Covers compass basics and declination, natural navigation, staying found, and an emergency navigation kit.",
+  "shortDescription": "Downloading offline maps, paper map reading, and basic compass use",
   "type": "guide",
   "category": "communication",
   "tags": [

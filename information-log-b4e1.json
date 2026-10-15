@@ -2,8 +2,8 @@
   "id": "b4e1",
   "version": "1.0.0",
   "title": "Information Log",
-  "description": "Quick reference guide for information log. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Information Log - Emergency preparedness guide",
+  "description": "Plain-text guide to keeping an emergency log: what to record (resources used, contacts, damage, decisions, photos), notebook, structured, and digital formats, and a sample page. Explains how the log supports insurance claims, FEMA applications, and legal needs, with a fill-in template.",
+  "shortDescription": "What to record during a disaster and how to use the log for claims",
   "type": "guide",
   "category": "communication",
   "tags": [

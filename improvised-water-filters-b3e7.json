@@ -2,8 +2,8 @@
   "id": "b3e7",
   "version": "1.0.0",
   "title": "Improvised Water Filters",
-  "description": "Interactive web-based guide for improvised water filters with visual elements and user interaction.",
-  "shortDescription": "Improvised Water Filters - Emergency preparedness guide",
+  "description": "Visual guide to building a layered filter from cloth, sand, charcoal, gravel, and rocks, with what each layer does and which containers and charcoal to use. Stresses that filtering alone does not make water safe to drink, and includes quick alternative filters and maintenance tips.",
+  "shortDescription": "Build a layered sand, charcoal, and gravel filter from scrap materials",
   "type": "guide",
   "category": "food-water",
   "tags": [

@@ -2,8 +2,8 @@
   "id": "r3u1",
   "version": "1.0.0",
   "title": "Emergency Childbirth",
-  "description": "Quick reference guide for emergency childbirth. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Emergency Childbirth - Emergency preparedness guide",
+  "description": "Plain-text reference for assisting an unplanned birth: gathering supplies, positioning the mother, and the crowning, head, and body delivery stages. Covers cord and newborn care, APGAR scoring, a baby who isn't breathing, warning signs for mother and baby, and what not to do.",
+  "shortDescription": "Delivering a baby when help can't arrive: stages, cord care, and APGAR",
   "type": "guide",
   "category": "medical",
   "tags": [

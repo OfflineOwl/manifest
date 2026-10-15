@@ -2,8 +2,8 @@
   "id": "p5q9",
   "version": "1.0.0",
   "title": "Compass & Map Navigation",
-  "description": "Comprehensive guide covering compass and map navigation. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Compass & Map Navigation - Emergency preparedness guide",
+  "description": "Teaches reading a baseplate compass, adjusting for magnetic declination, taking and following bearings, and triangulating your position. Covers topographic maps and contour lines, terrain association and pace counting, sun and star navigation, orienteering techniques, and the STOP protocol when lost.",
+  "shortDescription": "Bearings, declination, triangulation, topo maps, and star navigation",
   "type": "guide",
   "category": "communication",
   "tags": [

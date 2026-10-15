@@ -2,8 +2,8 @@
   "id": "l5n3",
   "version": "1.0.0",
   "title": "Bleeding Control Tourniquet",
-  "description": "Comprehensive guide covering bleeding control tourniquet. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Bleeding Control Tourniquet - Emergency preparedness guide",
+  "description": "Identifies arterial, venous, and capillary bleeding and follows an escalating sequence: direct pressure, wound packing, pressure points, then tourniquet. Covers applying commercial and improvised tourniquets, bleeding from the scalp, neck, chest, and junctional areas, internal bleeding, and a bleeding control kit.",
+  "shortDescription": "Direct pressure, wound packing, and applying a CAT or improvised tourniquet",
   "type": "guide",
   "category": "medical",
   "tags": [

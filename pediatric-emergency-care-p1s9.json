@@ -2,8 +2,8 @@
   "id": "p1s9",
   "version": "1.0.0",
   "title": "Pediatric Emergency Care",
-  "description": "Comprehensive guide covering pediatric emergency care. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Pediatric Emergency Care - Emergency preparedness guide",
+  "description": "Explains how children differ from adults, normal vital signs by age, and the Pediatric Assessment Triangle. Covers fever and acetaminophen dosing, dehydration, infant and child choking, croup, asthma, head injuries, poisoning, infant and child CPR, calming scared children, and kit additions.",
+  "shortDescription": "Child vital signs, fever and dosing, dehydration, choking, and CPR",
   "type": "guide",
   "category": "medical",
   "tags": [

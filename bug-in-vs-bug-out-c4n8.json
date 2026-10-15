@@ -2,8 +2,8 @@
   "id": "c4n8",
   "version": "1.0.0",
   "title": "Bug In vs Bug Out",
-  "description": "Interactive web-based guide for bug in vs bug out with visual elements and user interaction.",
-  "shortDescription": "Bug In vs Bug Out - Emergency preparedness guide",
+  "description": "Interactive assessment: seven questions about your home's safety, official guidance, supplies, the threat, routes, destination, and family mobility produce a bug-in or bug-out recommendation with a confidence score and next steps.",
+  "shortDescription": "Answer seven questions to get a shelter-or-evacuate recommendation",
   "type": "guide",
   "category": "survival",
   "tags": [

@@ -2,8 +2,8 @@
   "id": "wkdx",
   "version": "1.0.0",
   "title": "Water Purification",
-  "description": "Comprehensive guide covering water purification. Includes practical steps, checklists, and essential information for emergency preparedness.",
-  "shortDescription": "Water Purification - Emergency preparedness guide",
+  "description": "Covers five purification methods in depth: boiling with altitude adjustments, chlorine and iodine, UV devices and SODIS, commercial and DIY filters, and distillation. Includes a decision matrix for combining methods, storage guidelines, and action cards for when you have no equipment or suspect a chemical spill.",
+  "shortDescription": "Boiling, chemical, UV, filtration, and distillation, and when to use each",
   "type": "guide",
   "category": "food-water",
   "tags": [

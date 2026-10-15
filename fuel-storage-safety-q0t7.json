@@ -2,8 +2,8 @@
   "id": "q0t7",
   "version": "1.0.0",
   "title": "Fuel Storage Safety",
-  "description": "Quick reference guide for fuel storage safety. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Fuel Storage Safety - Emergency preparedness guide",
+  "description": "Plain-text reference on containers, locations, and quantity limits for liquid fuels, plus specifics for gasoline (stabilizers and rotation), propane tanks, kerosene, and seasoned firewood. Covers safe handling and transport, spill response, fire extinguishers, and local regulations.",
+  "shortDescription": "Store gasoline, diesel, propane, kerosene, and firewood safely",
   "type": "guide",
   "category": "shelter",
   "tags": [

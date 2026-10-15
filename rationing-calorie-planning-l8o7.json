@@ -2,8 +2,8 @@
   "id": "l8o7",
   "version": "1.0.0",
   "title": "Rationing Calorie Planning",
-  "description": "Interactive web-based guide for rationing calorie planning with visual elements and user interaction.",
-  "shortDescription": "Rationing Calorie Planning - Emergency preparedness guide",
+  "description": "Interactive calculator: enter each household member's age and activity, your total calories and days of water, and a rationing level from full to 40%. It estimates how many days your food will last and each person's daily intake, with calorie figures for common foods.",
+  "shortDescription": "Calculator: how long your food lasts at each rationing level",
   "type": "guide",
   "category": "food-water",
   "tags": [

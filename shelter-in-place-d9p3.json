@@ -2,8 +2,8 @@
   "id": "d9p3",
   "version": "1.0.0",
   "title": "Shelter In Place",
-  "description": "Quick reference guide for shelter in place. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Shelter In Place - Emergency preparedness guide",
+  "description": "Plain-text reference: immediate actions, then specific steps for tornadoes, hurricanes, storms, chemical releases (sealing a room), and active threats. Covers communication, supplies, duration, ending shelter, common mistakes, and the needs of children, elders, pets, and medical patients.",
+  "shortDescription": "First-minute actions by threat type, supplies, and when to come out",
   "type": "guide",
   "category": "survival",
   "tags": [

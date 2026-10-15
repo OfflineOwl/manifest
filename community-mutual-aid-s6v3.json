@@ -2,8 +2,8 @@
   "id": "s6v3",
   "version": "1.0.0",
   "title": "Community Mutual Aid",
-  "description": "Quick reference guide for community mutual aid. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Community Mutual Aid - Emergency preparedness guide",
+  "description": "Plain-text reference on building relationships before an emergency, organizing informal or structured mutual aid, and running check-ins and resource sharing during one. Covers caring for vulnerable neighbors, keeping trust and resolving conflicts, working with formal responders, and a checklist.",
+  "shortDescription": "Organize neighbors to share help and supplies when responders are stretched",
   "type": "guide",
   "category": "survival",
   "tags": [

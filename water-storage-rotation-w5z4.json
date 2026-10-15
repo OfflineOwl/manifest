@@ -2,8 +2,8 @@
   "id": "w5z4",
   "version": "1.0.0",
   "title": "Water Storage Rotation",
-  "description": "Quick reference guide for water storage rotation. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Water Storage Rotation - Emergency preparedness guide",
+  "description": "Plain-text guide to storage targets, safe and unsafe containers, cleaning containers, and treating municipal or well water for storage. Covers storage conditions, rotation schedules, larger options like 55-gallon drums and IBC totes, and checking stored water before drinking.",
+  "shortDescription": "How much to store, which containers, treating stored water, and rotation",
   "type": "guide",
   "category": "food-water",
   "tags": [

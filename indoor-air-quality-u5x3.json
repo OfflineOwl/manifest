@@ -2,8 +2,8 @@
   "id": "u5x3",
   "version": "1.0.0",
   "title": "Indoor Air Quality",
-  "description": "Quick reference guide for indoor air quality. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Indoor Air Quality - Emergency preparedness guide",
+  "description": "Plain-text reference on indoor carbon monoxide (sources, detectors, symptoms, alarm response), wildfire smoke, chemical shelter-in-place, and mold after water damage. Covers improving ventilation and filtration, a DIY box fan filter, and air quality equipment.",
+  "shortDescription": "Carbon monoxide, smoke, chemical releases, and mold indoors",
   "type": "guide",
   "category": "shelter",
   "tags": [

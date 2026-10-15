@@ -2,8 +2,8 @@
   "id": "a5c7",
   "version": "1.0.0",
   "title": "Cyber Preparedness & Data Backup",
-  "description": "Comprehensive guide covering cyber preparedness and data backup for emergencies. Includes encrypted storage, offline password management, alternative communication methods, and device prioritization.",
-  "shortDescription": "Cyber Preparedness & Data Backup - Emergency preparedness guide",
+  "description": "Covers what to back up and the 3-2-1 rule, encrypted USB drives, offline password management with KeePass, and scanning identity documents securely. Also includes phone hardening, prioritizing device charging, off-grid messaging with Meshtastic, Briar, and two-way radios, and common post-disaster scams.",
+  "shortDescription": "3-2-1 backups, encrypted USBs, KeePass, phone hardening, mesh messaging",
   "type": "guide",
   "category": "communication",
   "tags": [

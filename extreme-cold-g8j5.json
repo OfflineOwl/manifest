@@ -2,8 +2,8 @@
   "id": "g8j5",
   "version": "1.0.0",
   "title": "Extreme Cold",
-  "description": "Quick reference guide for extreme cold. Plain text format for maximum compatibility and offline printing.",
-  "shortDescription": "Extreme Cold - Emergency preparedness guide",
+  "description": "Plain-text reference on wind chill, hypothermia stages, and frostbite, with layering and body-heat conservation. Covers making a warm room without heat, surviving if stranded in a vehicle or caught outside, recognizing and responding to cold emergencies, and a winter vehicle kit.",
+  "shortDescription": "Wind chill, layering, warm rooms, and treating hypothermia and frostbite",
   "type": "guide",
   "category": "survival",
   "tags": [
