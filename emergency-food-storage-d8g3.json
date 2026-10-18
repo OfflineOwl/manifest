@@ -2,8 +2,8 @@
   "id": "d8g3",
   "version": "1.0.0",
   "title": "Emergency Food Storage",
-  "description": "Covers calculating how much food to store, long-, medium-, and short-term categories, and building a balanced pantry. Explains food-grade containers, Mylar bags, and oxygen absorbers, storage conditions, FIFO rotation, a sample one-week pantry, special diets, budget building, and common mistakes.",
-  "shortDescription": "How much to store, what lasts, Mylar and oxygen absorbers, and rotation",
+  "description": "How much food to store and what to start with: no-cook foods that need little water, then dry staples. Covers USDA and extension shelf-life data, containers, oxygen absorbers and Mylar bags, storage conditions, rotation, and infants, medical diets, and pets.",
+  "shortDescription": "No-cook basics first, real shelf lives, oxygen absorbers, and rotation",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

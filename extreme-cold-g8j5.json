@@ -2,8 +2,8 @@
   "id": "g8j5",
   "version": "1.0.0",
   "title": "Extreme Cold",
-  "description": "Plain-text reference on wind chill, hypothermia stages, and frostbite, with layering and body-heat conservation. Covers making a warm room without heat, surviving if stranded in a vehicle or caught outside, recognizing and responding to cold emergencies, and a winter vehicle kit.",
-  "shortDescription": "Wind chill, layering, warm rooms, and treating hypothermia and frostbite",
+  "description": "Plain-text guide to recognizing and treating hypothermia and frostbite following CDC and AHA first aid, plus wind chill and who is most at risk. Covers dressing in layers, staying warm without heat, surviving if stranded in a vehicle or caught outside, and a winter car kit.",
+  "shortDescription": "Hypothermia and frostbite first aid, staying warm, and surviving a stranded car",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

@@ -2,8 +2,8 @@
   "id": "d9p3",
   "version": "1.0.0",
   "title": "Shelter In Place",
-  "description": "Plain-text reference: immediate actions, then specific steps for tornadoes, hurricanes, storms, chemical releases (sealing a room), and active threats. Covers communication, supplies, duration, ending shelter, common mistakes, and the needs of children, elders, pets, and medical patients.",
-  "shortDescription": "First-minute actions by threat type, supplies, and when to come out",
+  "description": "Plain-text reference for sheltering in place, starting with which room to use: a sealed room above ground for chemical releases, the basement or center for radiation, and the lowest floor for tornadoes. Covers sealing steps and time limits, hurricanes and storms, Run-Hide-Fight, communication, supplies, when to come out, and special needs.",
+  "shortDescription": "Right room by threat: chemical up and sealed, radiation down, tornado lowest",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

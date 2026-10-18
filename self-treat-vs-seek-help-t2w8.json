@@ -2,8 +2,8 @@
   "id": "t2w8",
   "version": "1.0.0",
   "title": "Self Treat vs Seek Help",
-  "description": "Gives a decision framework that separates life-threatening emergencies from manageable problems like minor wounds, burns, sprains, fever, and stomach illness, and gray-zone cases like fractures and infections. Includes a decision tree for when resources are limited and a skills assessment.",
-  "shortDescription": "Decide what you can manage at home and what needs a professional",
+  "description": "Starts with the emergencies that need 911 now, including BE FAST stroke signs, heart attack, anaphylaxis, severe bleeding, and sepsis, then explains which wounds, burns, sprains, fevers, and stomach illnesses you can manage yourself, gray-zone problems, and what to do when help is far away.",
+  "shortDescription": "Call-911 red flags like BE FAST and heart attack, and what you can manage",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

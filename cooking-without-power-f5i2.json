@@ -2,8 +2,8 @@
   "id": "f5i2",
   "version": "1.0.0",
   "title": "Cooking Without Power",
-  "description": "Compares indoor-safe options (Sterno, fondue pots, camp stoves with caution) with outdoor grills, campfires, rocket stoves, and solar cookers, including a DIY solar oven. Covers fuel storage and retained-heat cooking, carbon monoxide and fire safety, and four simple emergency recipes.",
-  "shortDescription": "Indoor-safe heat, grills, rocket and solar stoves, and fuel-saving tips",
+  "description": "Explains carbon monoxide risk and which cooking methods are safe indoors (fireplace, chafing dishes, fondue pots) versus outdoors only (grills, camp stoves, fires, rocket and solar stoves). Covers fuel storage, retained-heat cooking, food safety, and simple recipes.",
+  "shortDescription": "Grills and camp stoves outdoors only, safe indoor warmers, and fuel tips",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

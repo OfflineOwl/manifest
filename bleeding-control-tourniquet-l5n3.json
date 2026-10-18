@@ -2,8 +2,8 @@
   "id": "l5n3",
   "version": "1.0.0",
   "title": "Bleeding Control Tourniquet",
-  "description": "Identifies arterial, venous, and capillary bleeding and follows an escalating sequence: direct pressure, wound packing, pressure points, then tourniquet. Covers applying commercial and improvised tourniquets, bleeding from the scalp, neck, chest, and junctional areas, internal bleeding, and a bleeding control kit.",
-  "shortDescription": "Direct pressure, wound packing, and applying a CAT or improvised tourniquet",
+  "description": "Follows the Stop the Bleed sequence for life-threatening bleeding: call for help, press hard, apply a tourniquet 2–3 inches above an arm or leg wound, and pack deep wounds. Covers improvised tourniquets, neck, chest, and belly wounds, internal bleeding, shock, and a bleeding control kit.",
+  "shortDescription": "Stop the Bleed steps: pressure, tourniquet placement, and wound packing",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

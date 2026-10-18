@@ -2,8 +2,8 @@
   "id": "m9p7",
   "version": "1.0.0",
   "title": "CPR Rescue Breathing",
-  "description": "Walks through the adult CPR sequence step by step, hands-only CPR, and how child and infant CPR differ. Covers choking victims who become unresponsive, drowning, hypothermia, pregnancy, and trauma cases, switching rescuers, and when to stop.",
-  "shortDescription": "Step-by-step adult, child, and infant CPR, hands-only CPR, and when to stop",
+  "description": "Step-by-step CPR updated to the 2025 American Heart Association guidelines: compression depth and rate, hands-only CPR, AED use, and how child and infant CPR differ. Covers choking victims who become unresponsive, drowning, overdose, pregnancy, and when to stop.",
+  "shortDescription": "2025 AHA CPR for adults, children, and infants, hands-only CPR, and AEDs",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

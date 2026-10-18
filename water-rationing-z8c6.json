@@ -2,8 +2,8 @@
   "id": "z8c6",
   "version": "1.0.0",
   "title": "Water Rationing",
-  "description": "Plain-text guide to survival and sustainable water minimums, four rationing levels from conservation to survival, and ways to cut water use for hygiene, sanitation, and food. Covers children, elders, and nursing mothers, calculating how long supply lasts, dehydration signs, and a daily log.",
-  "shortDescription": "Four rationing levels, water-saving techniques, and how long supply lasts",
+  "description": "Plain-text guide built on official advice not to ration drinking water: conservation levels that cut other uses, ways to reduce how much water your body needs, and low-water hygiene. Covers infants, children, older adults, dehydration signs, and when to call 911.",
+  "shortDescription": "Cut every use but drinking, reduce your body's need, and spot dehydration",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

@@ -2,8 +2,8 @@
   "id": "e0h7",
   "version": "1.0.0",
   "title": "Wildfire Preparedness",
-  "description": "Explains how wildfires spread and how to build defensible space in three zones out to 100 feet, plus priority home-hardening upgrades. Covers warning levels, evacuation prep, what to do if trapped, and protecting yourself from smoke.",
-  "shortDescription": "Defensible space zones, home hardening, evacuation, and smoke protection",
+  "description": "Follows the Ready, Set, Go! approach: defensible space and home hardening before fire season, leaving early, and what to do if trapped in a car, on foot, or at home. Covers smoke and the Air Quality Index, N95 respirators and clean rooms, and returning home safely.",
+  "shortDescription": "Ready, Set, Go!, defensible space zones, leaving early, and wildfire smoke",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

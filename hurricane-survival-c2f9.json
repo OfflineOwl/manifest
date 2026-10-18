@@ -2,8 +2,8 @@
   "id": "c2f9",
   "version": "1.0.0",
   "title": "Hurricane Survival",
-  "description": "Explains hurricane categories, watches vs. warnings, a preparation timeline, and evacuation decisions. Covers sheltering in place, the danger when the eye passes over, power outages, and safety, assessment, water, and recovery after the storm.",
-  "shortDescription": "Storm categories, prep timeline, evacuation, the eye, and aftermath",
+  "description": "Explains watches and warnings, the Saffir-Simpson categories (which measure wind only), and why storm surge and inland flooding cause most deaths. Covers when to evacuate, sheltering in place, and the carbon monoxide, electrocution, and heat dangers after the storm.",
+  "shortDescription": "Evacuation zones, storm surge and flooding, and post-storm CO and electrocution",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

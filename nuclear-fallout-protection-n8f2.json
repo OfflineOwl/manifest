@@ -2,8 +2,8 @@
   "id": "n8f2",
   "version": "1.0.0",
   "title": "Nuclear Fallout Protection",
-  "description": "Interactive guide with the actions for the first 10 minutes (get inside, seal the space, clean up if you were outside) and how fallout decays under the 7-10 rule. Compares protection factors from a wood house to an underground shelter and covers water and food safety, information sources, and when it's safe to leave.",
-  "shortDescription": "First 10 minutes, the 7-10 rule, shelter protection factors, and leaving",
+  "description": "Interactive guide to the first minutes after a nuclear explosion: get into a sturdy building, move to the basement or center, take off outer clothing and wash, and stay inside at least 24 hours. Covers FEMA protection factors, the 7-10 decay rule, potassium iodide, food and water, pets, and signs of radiation sickness.",
+  "shortDescription": "Get inside, basement or center, 24+ hours, cleanup, KI rules, and the 7-10 rule",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

@@ -2,8 +2,8 @@
   "id": "r3u1",
   "version": "1.0.0",
   "title": "Emergency Childbirth",
-  "description": "Plain-text reference for assisting an unplanned birth: gathering supplies, positioning the mother, and the crowning, head, and body delivery stages. Covers cord and newborn care, APGAR scoring, a baby who isn't breathing, warning signs for mother and baby, and what not to do.",
-  "shortDescription": "Delivering a baby when help can't arrive: stages, cord care, and APGAR",
+  "description": "Plain-text guide to an unplanned birth before help arrives: calling for help, supporting the delivery, drying and warming the baby, breathing for a newborn who isn't breathing, cord care, the placenta, and warning signs for mother and baby.",
+  "shortDescription": "Unplanned birth: delivery, a newborn who isn't breathing, cord, bleeding",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

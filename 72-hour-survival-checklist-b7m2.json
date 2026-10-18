@@ -2,8 +2,8 @@
   "id": "b7m2",
   "version": "1.0.0",
   "title": "72 Hour Survival Checklist",
-  "description": "Item-by-item checklists for water, food, shelter, light and power, first aid, communication, tools, and sanitation, each with urban and rural additions. Also covers infants, elderly, and pets, a quick go-bag pack list, and a quarterly maintenance routine.",
-  "shortDescription": "Water, food, power, medical, and tool lists with urban and rural add-ons",
+  "description": "Item-by-item checklists built on the Ready.gov basic kit: water at 1 gallon per person per day, food, medications, light and power, first aid, documents, tools, and sanitation, with urban and rural add-ons. Covers kids, older adults and people with disabilities, pets, generator safety, a go-bag pack list, and a maintenance routine.",
+  "shortDescription": "Ready.gov kit: 1 gallon of water per person per day, food, meds, power, papers",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

@@ -2,8 +2,8 @@
   "id": "b8e5",
   "version": "1.0.0",
   "title": "Earthquake Response",
-  "description": "Explains what to do during shaking indoors, outdoors, driving, or near the coast, then the immediate safety checks afterward, including gas leaks and signs of structural damage. Covers aftershocks, the first hours and days of recovery, water and food safety, and preparing your home.",
-  "shortDescription": "Drop, cover, hold on, then check for gas, damage, and aftershocks",
+  "description": "How to Drop, Cover, and Hold On, and how to adapt it in bed, in a wheelchair, outdoors, or driving, plus why the doorway and \"triangle of life\" advice is wrong. Covers gas leaks, unsafe buildings, aftershocks, tsunami risk on the coast, and preparing your home.",
+  "shortDescription": "Drop, Cover, Hold On; why doorways and the triangle of life fail; gas, tsunamis",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

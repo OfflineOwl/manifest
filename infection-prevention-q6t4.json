@@ -2,8 +2,8 @@
   "id": "q6t4",
   "version": "1.0.0",
   "title": "Infection Prevention",
-  "description": "Covers handwashing technique and homemade hand sanitizer, cleaning wounds and spotting infection, and preventing respiratory spread with masks. Includes food and water safety, waste management without plumbing, setting up home isolation, using and removing PPE, and daily prevention habits.",
-  "shortDescription": "Handwashing, wound care, masks, sanitation, and isolating the sick",
+  "description": "Covers handwashing and sanitizer, wound care and signs of infection and sepsis, tetanus, respiratory illness and masks, caring for someone sick at home, bleach disinfection, food and water safety, emergency toilets, and safe PPE removal.",
+  "shortDescription": "Handwashing, safe water, wound care, sick rooms, bleach, food, sanitation",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

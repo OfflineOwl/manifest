@@ -2,8 +2,8 @@
   "id": "f4i1",
   "version": "1.0.0",
   "title": "Tornado Safety",
-  "description": "Explains watches vs. warnings and natural warning signs, then the best shelter in houses, apartments, mobile homes, vehicles, or outdoors. Covers the protection position, checking for injuries and documenting damage afterward, and a tornado kit.",
-  "shortDescription": "Warning signs, best shelter spots by building type, and the aftermath",
+  "description": "What to do the moment a tornado warning is issued: the safest shelter in homes, high-rises, schools, mobile homes, and vehicles, and why overpasses are deadly. Covers watches vs. warnings, natural warning signs, and hazards after the storm such as downed lines, gas leaks, and carbon monoxide.",
+  "shortDescription": "Shelter on a warning: best spots by building, in vehicles, and after the storm",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

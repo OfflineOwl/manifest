@@ -2,8 +2,8 @@
   "id": "wkdx",
   "version": "1.0.0",
   "title": "Water Purification",
-  "description": "Covers five purification methods in depth: boiling with altitude adjustments, chlorine and iodine, UV devices and SODIS, commercial and DIY filters, and distillation. Includes a decision matrix for combining methods, storage guidelines, and action cards for when you have no equipment or suspect a chemical spill.",
-  "shortDescription": "Boiling, chemical, UV, filtration, and distillation, and when to use each",
+  "description": "Step-by-step boiling with altitude times, EPA bleach doses for 6% and 8.25% bleach, chlorine dioxide, iodine, UV, SODIS, filters, and distillation. Explains what each method does and doesn't remove, and what to do when water may contain chemicals.",
+  "shortDescription": "Boil, EPA bleach doses by strength, tablets, UV, SODIS, filters, distillation",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

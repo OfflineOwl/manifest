@@ -2,8 +2,8 @@
   "id": "u7x3",
   "version": "1.0.0",
   "title": "Finding Safe Water",
-  "description": "Ranks water sources in three tiers and explains where to find water in urban, rural, and wilderness settings. Covers rain, ground, transpiration bag, solar still, dew, and tree collection, judging water quality, sources to avoid, and tapping water heaters, pipes, and toilet tanks at home.",
-  "shortDescription": "Ranked water sources, collection methods, and hidden water at home",
+  "description": "Ranks water sources from stored and household water to outdoor sources that need treatment, and lists what never to drink. Covers draining a water heater and pipes, rain, ground, and plant collection, and judging a source before you treat it.",
+  "shortDescription": "Hidden water at home, outdoor sources ranked, and water you should never drink",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

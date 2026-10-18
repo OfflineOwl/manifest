@@ -2,8 +2,8 @@
   "id": "g9j6",
   "version": "1.0.0",
   "title": "Food Safety No Fridge",
-  "description": "Plain-text reference on the temperature danger zone, how long refrigerated and frozen food stays safe without power, and what to discard. Covers cooler and ice strategies, shelf-stable substitutes, preserving without electricity, cooking temperatures, and the 2-hour rule.",
-  "shortDescription": "How long fridge and freezer food lasts in an outage, and what to toss",
+  "description": "Plain-text guide to keeping food safe in a power outage: fridge and freezer safe times, the 40°F threshold, coolers and dry ice, and FoodSafety.gov keep-or-discard lists. Covers refreezing, food that touched floodwater, refrigerated medicines, and cooking temperatures.",
+  "shortDescription": "4-hour fridge and 24/48-hour freezer rules, and what to keep or toss",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

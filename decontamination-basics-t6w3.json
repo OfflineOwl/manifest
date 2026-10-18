@@ -2,8 +2,8 @@
   "id": "t6w3",
   "version": "1.0.0",
   "title": "Decontamination Basics",
-  "description": "Explains when decontamination is needed and the basic step-by-step process, with specifics for chemical, biological, and radiological contamination, eyes, and wounds. Covers setting up a decon area at home or improvised, common mistakes, and safely helping someone else decontaminate.",
-  "shortDescription": "Step-by-step decon for chemical, biological, and radiological exposure",
+  "description": "Step-by-step self-decontamination after chemical, biological, or radiological exposure: remove and double-bag clothing, wash gently with soap and water, flush eyes, and know when to call Poison Control or 911. Covers differences by contamination type, children, pets, wounds, and safely helping others.",
+  "shortDescription": "Clothes off within 10 minutes, double-bag, wash 2-3 minutes, flush eyes",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

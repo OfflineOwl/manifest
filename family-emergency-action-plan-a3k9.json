@@ -2,8 +2,8 @@
   "id": "a3k9",
   "version": "1.0.0",
   "title": "Family Emergency Action Plan",
-  "description": "Walks through seven steps: identifying risks, setting communication protocols, choosing three meeting points, assigning family roles, planning for fire, shelter-in-place, evacuation, and separation, documenting, and drilling. Ends with a fill-in plan template and a quick reference card.",
-  "shortDescription": "Seven steps to a written all-hazards plan, with a fill-in template",
+  "description": "Builds a written all-hazards plan around FEMA's family communication plan: an out-of-town contact, texting instead of calling, ICE contacts, wallet cards, and indoor, neighborhood, out-of-neighborhood, and out-of-town meeting places. Covers school and work plans, family roles, plans for fire, sheltering, evacuation, and separation, drills, and a fill-in template.",
+  "shortDescription": "Out-of-town contact, text-first, four meeting places, roles, and a fill-in plan",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

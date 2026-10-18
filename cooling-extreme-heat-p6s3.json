@@ -2,8 +2,8 @@
   "id": "p6s3",
   "version": "1.0.0",
   "title": "Cooling Extreme Heat",
-  "description": "Covers passive cooling (blocking sun, ventilation, cutting internal heat), fans, evaporative cooling, and cold-water immersion, plus hydration, clothing, and sleeping in heat. Includes protecting children, elders, and pets, treating heat exhaustion and heat stroke, and when to go to a cooling center.",
-  "shortDescription": "Keep your home and body cool without AC, and treat heat illness",
+  "description": "Ways to cool your home and body without air conditioning, including when fans help and when they make things worse, plus sleeping in heat and protecting older adults, children, and pets. Includes heat illness signs and first aid, and when to go to a cooling center.",
+  "shortDescription": "Cooling your home and body without AC, the 90°F fan limit, and when to leave",
   "type": "guide",
   "category": "shelter",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

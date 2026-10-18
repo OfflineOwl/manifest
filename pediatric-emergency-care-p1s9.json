@@ -2,8 +2,8 @@
   "id": "p1s9",
   "version": "1.0.0",
   "title": "Pediatric Emergency Care",
-  "description": "Explains how children differ from adults, normal vital signs by age, and the Pediatric Assessment Triangle. Covers fever and acetaminophen dosing, dehydration, infant and child choking, croup, asthma, head injuries, poisoning, infant and child CPR, calming scared children, and kit additions.",
-  "shortDescription": "Child vital signs, fever and dosing, dehydration, choking, and CPR",
+  "description": "Covers the emergencies most likely to hit a child: CPR and choking under the 2025 guidelines, when a fever needs care, medication safety, dehydration, croup, asthma, head injuries, burns, and poisoning, with a clear list of when to call 911.",
+  "shortDescription": "Child CPR and choking, fever, dehydration, croup, asthma, and poisoning",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

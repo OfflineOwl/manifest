@@ -2,8 +2,8 @@
   "id": "k2m8",
   "version": "1.0.0",
   "title": "Basic First Aid",
-  "description": "Starts with scene safety and the ABC primary assessment, then walks through unconsciousness, shock, choking, diabetic emergencies, seizures, and anaphylaxis. Covers wound cleaning and improvised bandages, drug-free pain relief, kit essentials, and what to do when professional help can't come.",
-  "shortDescription": "Scene safety, ABCs, shock, choking, seizures, and wound care without power",
+  "description": "Starts with what to do first, then covers checking an injured person, CPR, severe bleeding, and the 2025 choking steps (back blows plus abdominal thrusts). Also covers the recovery position, shock, low blood sugar, seizures, anaphylaxis, wound care, and kit essentials for when help is far away.",
+  "shortDescription": "First steps, CPR, bleeding, 2025 choking steps, shock, seizures, anaphylaxis",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

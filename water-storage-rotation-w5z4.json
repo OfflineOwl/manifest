@@ -2,8 +2,8 @@
   "id": "w5z4",
   "version": "1.0.0",
   "title": "Water Storage Rotation",
-  "description": "Plain-text guide to storage targets, safe and unsafe containers, cleaning containers, and treating municipal or well water for storage. Covers storage conditions, rotation schedules, larger options like 55-gallon drums and IBC totes, and checking stored water before drinking.",
-  "shortDescription": "How much to store, which containers, treating stored water, and rotation",
+  "description": "Plain-text guide to storing at least 1 gallon per person per day for 3 days to 2 weeks, choosing and sanitizing containers, and treating well water. Covers storage conditions, 6-month rotation for self-filled water, and filling extra containers before a storm.",
+  "shortDescription": "1 gallon per person per day, safe containers, sanitizing, 6-month rotation",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

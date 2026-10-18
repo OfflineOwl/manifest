@@ -2,8 +2,8 @@
   "id": "y1b9",
   "version": "1.0.0",
   "title": "Radio Emergency Updates",
-  "description": "Compares NOAA weather, AM/FM, shortwave, and scanner radios, the features to look for, and recommended models. Covers finding emergency stations, SAME alert programming, battery conservation, alert types and tones, a check-in schedule, and FRS/GMRS two-way radios.",
-  "shortDescription": "NOAA, AM/FM, shortwave, and scanners, plus SAME alerts and two-way radio",
+  "description": "Explains how Wireless Emergency Alerts, the Emergency Alert System, and NOAA Weather Radio reach you, how to program SAME county codes, and what alert terms and tones mean. Covers choosing a radio, saving batteries, scanners and shortwave, and FRS/GMRS rules, including why privacy codes don't make calls private.",
+  "shortDescription": "WEA, EAS, NOAA Weather Radio with SAME, alert tones, and FRS/GMRS basics",
   "type": "guide",
   "category": "communication",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

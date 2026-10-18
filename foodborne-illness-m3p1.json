@@ -2,8 +2,8 @@
   "id": "m3p1",
   "version": "1.0.0",
   "title": "Foodborne Illness",
-  "description": "Plain-text reference on bacterial, viral, parasitic, and toxin causes, typical symptoms, and emergency warning signs. Covers home treatment and diet progression, the clean-separate-cook-chill rules, high-risk foods, food safety without refrigeration or clean water, and a food poisoning log.",
-  "shortDescription": "Recognize food poisoning, know when it's an emergency, and treat it at home",
+  "description": "Plain-text guide to food poisoning: emergency signs including botulism, when to see a doctor, symptom onset by germ, and home treatment with oral rehydration. Covers medicines, preventing spread, clean-separate-cook-chill, and high-risk foods in emergencies.",
+  "shortDescription": "When food poisoning needs 911 or a doctor, rehydration, and preventing spread",
   "type": "guide",
   "category": "food-water",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

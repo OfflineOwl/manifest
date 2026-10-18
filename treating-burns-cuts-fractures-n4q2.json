@@ -2,8 +2,8 @@
   "id": "n4q2",
   "version": "1.0.0",
   "title": "Treating Burns Cuts Fractures",
-  "description": "Covers classifying and treating burns, cleaning cuts, deciding when stitches are needed, and closing wounds without them. Includes telling fractures from sprains, splinting, circulation checks, sling and swathe, drug-free pain management, and when to seek help.",
-  "shortDescription": "Burn degrees, wound cleaning and closure, splints, and slings",
+  "description": "Covers cooling and covering burns, chemical and electrical burns, smoke inhalation, controlling bleeding and cleaning cuts, when a wound needs stitches, splinting fractures, circulation checks, and slings, with clear signs for when to call 911.",
+  "shortDescription": "Cooling burns, cleaning cuts, splinting fractures, and when to call 911",
   "type": "guide",
   "category": "medical",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

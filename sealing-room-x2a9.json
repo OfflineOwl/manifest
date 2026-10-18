@@ -2,8 +2,8 @@
   "id": "x2a9",
   "version": "1.0.0",
   "title": "Sealing Room",
-  "description": "Explains which hazards call for sealing a room and which don't, how to pick the room, and materials to keep on hand, including pre-cut plastic. Gives a three-step sealing procedure, warns about time limits and signs to unseal, and covers unsealing after the all-clear.",
-  "shortDescription": "When sealing helps, which room to pick, and how long it's safe",
+  "description": "Explains when to seal a room (chemical releases) and when not to (radiation, fire, tornadoes), and why chemical shelters go above ground while radiation shelters go to the basement or center. Gives room selection, materials, a step-by-step sealing procedure, air and time limits, and unsealing after the all-clear.",
+  "shortDescription": "For chemical releases: pick an above-ground room, seal it, know the time limits",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

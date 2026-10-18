@@ -2,8 +2,8 @@
   "id": "h2k9",
   "version": "1.0.0",
   "title": "Extreme Heat Survival",
-  "description": "Explains the heat index and who is most at risk, then the progression from heat cramps to heat exhaustion to heat stroke. Covers cooling your body and surroundings without AC, hydration, activity, and clothing, and emergency treatment for heat exhaustion and heat stroke.",
-  "shortDescription": "Heat index, heat cramps to heat stroke, and staying cool without AC",
+  "description": "Shows how to tell heat exhaustion from heat stroke and how to cool someone fast, following CDC and 2024 AHA/Red Cross first aid. Covers who is most at risk, heat alerts, limits on fans and fluids, and never leaving anyone in a parked car.",
+  "shortDescription": "Heat stroke vs. heat exhaustion, fast-cooling first aid, and who is most at risk",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

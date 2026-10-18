@@ -2,8 +2,8 @@
   "id": "k4n1",
   "version": "1.0.0",
   "title": "Tsunami Response",
-  "description": "Explains natural warning signs, such as a coastal earthquake or a receding ocean, and official warnings. Covers where to evacuate, what not to do, why the first wave may not be the largest, surviving if trapped in water or a building, and returning home.",
-  "shortDescription": "Natural and official warnings, where to evacuate, and multiple waves",
+  "description": "Explains the natural warnings (a strong or long earthquake, the ocean draining or rising, a roar) that mean leave now, and NOAA's alert levels. Covers where to go, what to do if caught in water, a building, or a boat, and why to stay away until officials say it's safe.",
+  "shortDescription": "Natural warnings, reaching high ground fast, and why later waves can be worse",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

@@ -2,8 +2,8 @@
   "id": "r8u5",
   "version": "1.0.0",
   "title": "CBR Warning Signs",
-  "description": "Describes the signs of chemical, biological, and radiological incidents, along with official alert types and siren meanings. Gives immediate response steps for whether you're outdoors or indoors when an event is suspected.",
-  "shortDescription": "How to spot chemical, biological, and radiological incidents and react",
+  "description": "Describes the warning signs of chemical, biological, and radiological incidents, including chemical agent types and radiation sickness, and how phone alerts, EAS, NOAA Weather Radio, and sirens warn you. Gives the different first steps for each threat, outdoors and indoors.",
+  "shortDescription": "Spot chemical, biological, and radiological incidents; the first move for each",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

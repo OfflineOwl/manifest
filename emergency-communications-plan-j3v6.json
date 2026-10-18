@@ -2,8 +2,8 @@
   "id": "j3v6",
   "version": "1.0.0",
   "title": "Emergency Communications Plan",
-  "description": "Sets out a communication hierarchy for congested cell networks, cell outages, and total electronic failure, with an out-of-area contact, check-in protocol, and family code word. Covers NOAA, FRS/GMRS, ham, and CB radio, visual and sound signals, location-specific plans, an equipment checklist, and a monthly drill.",
-  "shortDescription": "A tiered family plan for congested, down, and fully failed networks",
+  "description": "Sets out a layered family plan for jammed networks, cell outages, and total failure: an out-of-town contact, text-first check-ins, ICE contacts, and a family password. Covers current FCC rules for FRS, GMRS, ham, and CB radio (including why privacy codes aren't private), visual and sound signals, location plans, equipment, and drills.",
+  "shortDescription": "Text-first plan, out-of-town contact, FRS/GMRS/ham/CB rules, and signals",
   "type": "guide",
   "category": "communication",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

@@ -2,8 +2,8 @@
   "id": "a4d1",
   "version": "1.0.0",
   "title": "CBR What Not Do",
-  "description": "Lists the mistakes to avoid in each type of event, such as going outside to look, running fans, stockpiling antibiotics, taking potassium iodide without direction, and using hair conditioner after exposure. Also covers spreading misinformation, plastic-bag masks, and keeping a room sealed too long.",
-  "shortDescription": "Common mistakes during chemical, biological, and radiological events",
+  "description": "Lists the most dangerous mistakes in chemical, biological, and radiological emergencies, starting with using the wrong shelter room, going outside to collect family, and sheltering in a car. Covers myths about conditioner, hand sanitizer, and alcohol, potassium iodide misuse, sealed-room time limits, and misinformation.",
+  "shortDescription": "Wrong shelter room, going out for family, cars, KI misuse, and other mistakes",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50

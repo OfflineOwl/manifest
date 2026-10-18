@@ -2,8 +2,8 @@
   "id": "d6g3",
   "version": "1.0.0",
   "title": "Flood Response",
-  "description": "Covers flood types, knowing your risk, and preparing before water arrives, then what to do under a warning, during evacuation, or if trapped by rising water, including why not to drive through it. Ends with hazards when returning home, water safety, and cleanup.",
-  "shortDescription": "Flood types, evacuating, rising water, and returning home safely",
+  "description": "Why a few inches of moving water can knock you down and a foot can carry away a car, and what to do if trapped in a building or vehicle. Covers flood alerts, evacuation, floodwater contamination and wound care, water and food safety, and safe cleanup.",
+  "shortDescription": "Turn Around Don't Drown, rising water, trapped cars, and contaminated floodwater",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,8 +23,9 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
-  "priority": 50
+  "priority": 50,
+  "timeCritical": true
 }

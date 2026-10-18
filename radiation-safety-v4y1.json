@@ -2,8 +2,8 @@
   "id": "v4y1",
   "version": "1.0.0",
   "title": "Radiation Safety",
-  "description": "Explains the time, distance, and shielding principles and the types of radiation events. Covers when, where, and how long to shelter in place, decontaminating after fallout exposure, and who should take potassium iodide and its limits.",
-  "shortDescription": "Time, distance, shielding, sheltering, and when potassium iodide helps",
+  "description": "Explains get inside, stay inside, stay tuned and the time, distance, and shielding principles for nuclear explosions, dirty bombs, and power plant accidents. Covers where and how long to shelter, decontamination, potassium iodide (only when officials say), and signs of radiation sickness.",
+  "shortDescription": "Get inside, stay inside, stay tuned; time, distance, shielding; KI facts",
   "type": "guide",
   "category": "survival",
   "tags": [
@@ -23,7 +23,7 @@
   "author": "OfflineOwl Contributors",
   "language": "en",
   "createdAt": "2026-01-31T00:00:00.000Z",
-  "updatedAt": "2026-01-31T00:00:00.000Z",
+  "updatedAt": "2026-10-17T00:00:00.000Z",
   "verified": true,
   "featured": false,
   "priority": 50
